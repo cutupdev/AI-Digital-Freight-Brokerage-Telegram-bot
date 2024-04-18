@@ -1,0 +1,37 @@
+{
+  "name": "scale",
+  "version": "1.0.0",
+  "description": "Injective trading bot",
+  "main": "index.ts",
+  "author": "Gru",
+  "license": "MIT",
+  "dependencies": {
+    "@injectivelabs/sdk-ts": "^1.14.7",
+    "@injectivelabs/utils": "^1.14.6",
+    "@mercurial-finance/optimist": "^0.3.2",
+    "@solana/web3.js": "^1.90.1",
+    "axios": "^1.6.7",
+    "bip39": "^3.1.0",
+    "bs58": "^5.0.0",
+    "cross-fetch": "^4.0.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.11.1",
+    "js-base64": "^3.7.7",
+    "mongoose": "^8.3.1",
+    "node-telegram-bot-api": "^0.64.0",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "dev": "ts-node-dev index.ts",
+    "start": "ts-node index.ts",
+    "run": "node dist/index.js",
+    "build": "tsc --build"
+  },
+  "devDependencies": {
+    "@types/bs58": "^4.0.4",
+    "@types/js-base64": "^3.3.1",
+    "@types/node-telegram-bot-api": "^0.64.3"
+  }
+}

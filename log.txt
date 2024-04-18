@@ -1,0 +1,1667 @@
+Bot startedBot started2024-03-28T09:46:41.080Z : Bot started2024-03-28T09:47:00.236Z : Bot started2024-03-28T09:47:13.176Z : Bot started2024-03-28T09:47:29.687Z : Bot started2024-03-28T09:47:46.767Z : Bot started2024-03-28T09:47:49.758Z : message : 6381452440 -> /start2024-03-28T09:47:51.985Z : message : 6381452440 -> /sell2024-03-28T09:47:54.167Z : message : 6381452440 -> sell:inj1l49685vnk88zfw2egf6v65se7trw2497wsqk652024-03-28T09:48:52.272Z : Bot started2024-03-28T09:48:54.067Z : message : 6381452440 -> refer
+2024-03-28T09:48:54.194Z : message : 6381452440 -> help
+2024-03-28T09:48:54.263Z : message : 6381452440 -> refresh
+2024-03-28T09:48:54.272Z : message : 6381452440 -> leaderboard
+2024-03-28T09:52:30.704Z : Bot started2024-03-28T09:52:44.831Z : Bot started2024-03-28T09:56:40.323Z : Bot started
+2024-03-28T09:59:48.603Z : Bot started
+2024-03-28T10:00:45.566Z : Bot started
+2024-03-28T10:02:11.738Z : Bot started
+2024-03-28T10:05:59.048Z : Bot started
+2024-03-28T10:06:53.888Z : Bot started
+2024-03-28T10:07:33.007Z : Bot started
+2024-03-28T10:08:05.563Z : Bot started
+2024-03-28T10:09:06.701Z : Bot started
+2024-03-28T10:11:30.688Z : Bot started
+2024-03-28T10:16:01.938Z : Bot started
+2024-03-28T10:17:59.317Z : Bot started
+2024-03-28T10:19:24.998Z : Bot started
+2024-03-28T10:26:13.645Z : Bot started
+2024-03-28T10:37:37.445Z : Bot started
+2024-03-28T10:39:06.566Z : Bot started
+2024-03-28T10:39:17.759Z : Bot started
+2024-03-28T10:39:58.796Z : Bot started
+2024-03-28T10:40:37.276Z : Bot started
+2024-03-28T10:40:48.088Z : Bot started
+2024-03-28T10:41:50.323Z : Bot started
+2024-03-28T10:42:25.463Z : Bot started
+2024-03-28T10:42:37.170Z : message : 6381452440 -> /start
+2024-03-28T10:42:41.438Z : message : 6381452440 -> welcome
+2024-03-28T10:42:45.303Z : message : 6381452440 -> inputref
+2024-03-28T10:43:14.876Z : Bot started
+2024-03-28T10:43:33.891Z : Bot started
+2024-03-28T10:43:51.418Z : Bot started
+2024-03-28T10:44:20.514Z : Bot started
+2024-03-28T10:46:00.277Z : Bot started
+2024-03-28T10:47:56.818Z : Bot started
+2024-03-28T10:48:19.482Z : Bot started
+2024-03-28T10:48:20.890Z : message : 6381452440 -> inputref
+2024-03-28T10:48:25.574Z : message : 6381452440 -> asdasd
+2024-03-28T10:50:13.743Z : Bot started
+2024-03-28T10:50:33.646Z : Bot started
+2024-03-28T10:50:34.961Z : message : 6381452440 -> inputref
+2024-03-28T10:50:36.841Z : message : 6381452440 -> asdfasdf
+2024-03-28T10:51:33.262Z : Bot started
+2024-03-28T10:53:00.324Z : Bot started
+2024-03-28T10:53:01.792Z : message : 6381452440 -> inputref
+2024-03-28T10:53:07.691Z : message : 6381452440 -> dsfsdf
+2024-03-28T10:53:10.583Z : message : 6381452440 -> inputref
+2024-03-28T10:53:13.780Z : message : 6381452440 -> sdgdfgdsfg
+2024-03-28T10:53:15.453Z : message : 6381452440 -> cancel
+2024-03-28T10:54:03.758Z : Bot started
+2024-03-28T10:54:22.397Z : Bot started
+2024-03-28T10:54:23.727Z : message : 6381452440 -> inputref
+2024-03-28T10:54:27.448Z : message : 6381452440 -> bxcvbxcvb
+2024-03-28T10:54:31.732Z : message : 6381452440 -> cancel
+2024-03-28T10:55:27.306Z : Bot started
+2024-03-28T10:55:43.137Z : Bot started
+2024-03-28T10:57:06.287Z : Bot started
+2024-03-28T10:57:31.726Z : Bot started
+2024-03-28T10:57:33.364Z : message : 6381452440 -> import
+2024-03-28T10:57:47.727Z : message : 6381452440 -> asdasdasdasd
+2024-03-28T10:58:38.135Z : Bot started
+2024-03-28T10:59:03.711Z : Bot started
+2024-03-28T10:59:05.084Z : message : 6381452440 -> asdasdasdasd
+2024-03-28T10:59:08.032Z : message : 6381452440 -> import
+2024-03-28T10:59:15.472Z : message : 6381452440 -> sdfsdf
+2024-03-28T11:00:10.857Z : Bot started
+2024-03-28T11:00:12.205Z : message : 6381452440 -> sdfsdf
+2024-03-28T11:00:12.210Z : message : 6381452440 -> import
+2024-03-28T11:00:21.122Z : message : 6381452440 -> sdfsdf
+2024-03-28T11:01:26.104Z : Bot started
+2024-03-28T11:01:28.063Z : message : 6381452440 -> sdfsdf
+2024-03-28T11:01:38.830Z : Bot started
+2024-03-28T11:01:41.586Z : message : 6381452440 -> import
+2024-03-28T11:01:51.416Z : message : 6381452440 -> sdfsdfsdfsdf
+2024-03-28T11:02:38.824Z : Bot started
+2024-03-28T11:02:40.105Z : message : 6381452440 -> sdfsdfsdfsdf
+2024-03-28T11:02:40.109Z : message : 6381452440 -> import
+2024-03-28T11:02:47.071Z : message : 6381452440 -> asdfasdfasdfasdf
+2024-03-28T11:04:12.580Z : Bot started
+2024-03-28T11:04:13.803Z : message : 6381452440 -> asdfasdfasdfasdf
+2024-03-28T11:04:13.807Z : message : 6381452440 -> import
+2024-03-28T11:04:21.857Z : message : 6381452440 -> asdf
+2024-03-28T11:04:21.957Z : Bot started
+2024-03-28T11:04:22.052Z : message : 6381452440 -> asdf
+2024-03-28T11:06:38.953Z : Bot started
+2024-03-28T11:06:40.390Z : message : 6381452440 -> import
+2024-03-28T11:06:48.253Z : message : 6381452440 -> asdfasdfasdfasf
+2024-03-28T11:06:48.371Z : Bot started
+2024-03-28T11:06:48.474Z : message : 6381452440 -> asdfasdfasdfasf
+2024-03-28T11:06:58.156Z : message : 6381452440 -> /start
+2024-03-28T11:13:06.394Z : Bot started
+2024-03-28T11:13:07.648Z : message : 6381452440 -> import
+2024-03-28T11:13:15.572Z : message : 6381452440 -> sadfasdf
+2024-03-28T11:14:05.412Z : Bot started
+2024-03-28T11:14:06.684Z : message : 6381452440 -> sadfasdf
+2024-03-28T11:14:06.690Z : message : 6381452440 -> import
+2024-03-28T11:14:13.458Z : message : 6381452440 -> zxczxc
+2024-03-28T11:14:13.569Z : Bot started
+2024-03-28T11:14:13.665Z : message : 6381452440 -> zxczxc
+2024-03-28T11:14:24.453Z : message : 6381452440 -> /start
+2024-03-28T11:29:30.350Z : Bot started
+2024-03-28T11:29:31.729Z : message : 6381452440 -> /buy
+2024-03-28T11:29:35.990Z : message : 6381452440 -> register
+2024-03-28T11:29:37.690Z : message : 6381452440 -> create
+2024-03-28T11:29:40.015Z : message : 6381452440 -> buy
+2024-03-28T11:29:59.395Z : Bot started
+2024-03-28T11:30:00.848Z : message : 6381452440 -> buy
+2024-03-28T11:30:27.943Z : Bot started
+2024-03-28T11:30:29.349Z : message : 6381452440 -> buy
+2024-03-28T13:11:06.064Z : Bot started
+2024-03-28T13:11:53.155Z : Bot started
+2024-03-28T13:12:05.055Z : Bot started
+2024-03-28T13:12:13.996Z : message : 6381452440 -> /start
+2024-03-28T13:13:09.014Z : Bot started
+2024-03-28T13:13:55.836Z : Bot started
+2024-03-28T13:14:19.845Z : Bot started
+2024-03-28T13:28:38.914Z : message : 6381452440 -> buy
+2024-03-28T13:28:47.239Z : message : 6381452440 -> asdasd
+2024-03-28T13:30:47.310Z : Bot started
+2024-03-28T13:31:59.553Z : Bot started
+2024-03-28T13:32:06.850Z : message : 6381452440 -> xvxcvxcv
+2024-03-28T13:33:06.949Z : Bot started
+2024-03-28T13:33:08.214Z : message : 6381452440 -> zxcvzxvc
+2024-03-28T13:33:17.601Z : Bot started
+2024-03-28T13:33:18.956Z : message : 6381452440 -> zxczx
+2024-03-28T13:34:53.775Z : Bot started
+2024-03-28T13:35:31.851Z : Bot started
+2024-03-28T13:35:33.405Z : message : 6381452440 -> zxczx
+2024-03-28T14:23:57.910Z : Bot started
+2024-03-28T14:25:10.421Z : Bot started
+2024-03-28T14:26:20.486Z : Bot started
+2024-03-28T14:32:22.228Z : Bot started
+2024-03-28T14:33:11.707Z : Bot started
+2024-03-28T14:33:12.831Z : message : 6381452440 -> zxczxczxc
+2024-03-28T17:47:18.040Z : Bot started
+2024-03-28T17:49:54.744Z : Bot started
+2024-03-28T18:14:41.924Z : Bot started
+2024-03-28T18:15:29.439Z : Bot started
+2024-03-28T18:15:57.111Z : Bot started
+2024-03-28T18:16:11.959Z : Bot started
+2024-03-28T18:16:24.940Z : Bot started
+2024-03-28T18:21:10.861Z : Bot started
+2024-03-28T18:23:59.671Z : Bot started
+2024-03-28T18:27:28.391Z : Bot started
+2024-03-28T18:34:18.559Z : Bot started
+2024-03-28T18:34:49.375Z : Bot started
+2024-03-28T18:35:27.923Z : Bot started
+2024-03-28T18:35:58.127Z : message : 6381452440 -> cancel
+2024-03-28T18:35:59.320Z : message : 6381452440 -> refer
+2024-03-29T06:13:53.288Z : Bot started
+2024-03-29T06:13:54.693Z : message : 2107432518 -> /start
+2024-03-29T06:13:54.698Z : message : 2107432518 -> /start
+2024-03-29T06:13:54.705Z : message : 2107432518 -> /leaderboard
+2024-03-29T06:13:54.708Z : message : 2107432518 -> /start
+2024-03-29T06:13:54.712Z : message : 2107432518 -> Nonja
+2024-03-29T06:13:54.718Z : message : 2107432518 -> /wallet
+2024-03-29T06:13:54.724Z : message : 2107432518 -> /start
+2024-03-29T06:13:54.726Z : message : 2107432518 -> /settings
+2024-03-29T06:13:54.732Z : message : 2107432518 -> No worky
+2024-03-29T06:13:54.735Z : message : 2107432518 -> /start
+2024-03-29T06:13:54.741Z : message : 6784372470 -> /start
+2024-03-29T06:13:54.744Z : message : 6880860322 -> /start
+2024-03-29T06:13:54.746Z : message : 6880860322 -> /start
+2024-03-29T06:13:54.751Z : message : 1814620016 -> /start
+2024-03-29T06:13:54.754Z : message : 1814620016 -> /buy
+2024-03-29T06:13:54.756Z : message : 1814620016 -> /start
+2024-03-29T06:13:54.758Z : message : 6884028368 -> /wallet
+2024-03-29T06:13:54.836Z : message : 779856903 -> /start
+2024-03-29T06:13:54.840Z : message : 779856903 -> /start
+2024-03-29T06:13:54.844Z : message : 779856903 -> /wallet
+2024-03-29T06:13:54.847Z : message : 779856903 -> /leaderboard
+2024-03-29T06:13:54.849Z : message : 779856903 -> /wallet
+2024-03-29T06:13:54.850Z : message : 1814620016 -> /start
+2024-03-29T06:13:54.854Z : message : 6884028368 -> /wallet
+2024-03-29T06:13:54.860Z : message : 6884028368 -> /leaderboard
+2024-03-29T06:13:54.864Z : message : 6381452440 -> /start
+2024-03-29T06:13:54.866Z : message : 6381452440 -> /start
+2024-03-29T06:13:54.871Z : message : 1814620016 -> /start
+2024-03-29T06:13:54.886Z : 2107432518 : error -> SyntaxError: Unexpected end of JSON input
+2024-03-29T06:13:54.892Z : Bot started
+2024-03-29T06:13:55.070Z : 2107432518 : error -> Error: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+2024-03-29T06:13:55.075Z : Bot started
+2024-03-29T06:13:56.100Z : 2107432518 : error -> Error: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+2024-03-29T06:13:56.103Z : Bot started
+2024-03-29T06:14:38.577Z : Bot started
+2024-03-29T06:14:39.895Z : message : 2107432518 -> /start
+2024-03-29T06:14:39.899Z : message : 2107432518 -> /start
+2024-03-29T06:14:39.900Z : message : 2107432518 -> /leaderboard
+2024-03-29T06:14:39.903Z : message : 2107432518 -> /start
+2024-03-29T06:14:39.908Z : message : 2107432518 -> Nonja
+2024-03-29T06:14:39.910Z : message : 2107432518 -> /wallet
+2024-03-29T06:14:39.911Z : message : 2107432518 -> /start
+2024-03-29T06:14:39.913Z : message : 2107432518 -> /settings
+2024-03-29T06:14:39.914Z : message : 2107432518 -> No worky
+2024-03-29T06:14:39.916Z : message : 2107432518 -> /start
+2024-03-29T06:14:39.918Z : message : 6784372470 -> /start
+2024-03-29T06:14:39.925Z : message : 6880860322 -> /start
+2024-03-29T06:14:39.928Z : message : 6880860322 -> /start
+2024-03-29T06:14:39.930Z : message : 1814620016 -> /start
+2024-03-29T06:14:39.932Z : message : 1814620016 -> /buy
+2024-03-29T06:14:39.934Z : message : 1814620016 -> /start
+2024-03-29T06:14:39.937Z : message : 6884028368 -> /wallet
+2024-03-29T06:14:39.939Z : message : 779856903 -> /start
+2024-03-29T06:14:39.942Z : message : 779856903 -> /start
+2024-03-29T06:14:39.944Z : message : 779856903 -> /wallet
+2024-03-29T06:14:39.945Z : message : 779856903 -> /leaderboard
+2024-03-29T06:14:39.948Z : message : 779856903 -> /wallet
+2024-03-29T06:14:39.949Z : message : 1814620016 -> /start
+2024-03-29T06:14:39.951Z : message : 6884028368 -> /wallet
+2024-03-29T06:14:39.954Z : message : 6884028368 -> /leaderboard
+2024-03-29T06:14:39.956Z : message : 6381452440 -> /start
+2024-03-29T06:14:39.959Z : message : 6381452440 -> /start
+2024-03-29T06:14:39.961Z : message : 1814620016 -> /start
+2024-03-29T06:14:40.157Z : 2107432518 : error -> Error: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+2024-03-29T06:14:40.171Z : Bot started
+2024-03-29T06:14:40.612Z : 2107432518 : error -> Error: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+2024-03-29T06:14:40.614Z : Bot started
+2024-03-29T06:14:40.644Z : 2107432518 : error -> Error: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+2024-03-29T06:14:40.648Z : Bot started
+2024-03-29T06:14:40.734Z : 2107432518 : error -> Error: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+2024-03-29T06:14:40.737Z : Bot started
+2024-03-29T06:14:40.768Z : 2107432518 : error -> Error: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+2024-03-29T06:14:40.772Z : Bot started
+2024-03-29T06:14:40.879Z : 2107432518 : error -> Error: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+2024-03-29T06:14:40.882Z : Bot started
+2024-03-29T06:14:40.991Z : 2107432518 : error -> Error: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+2024-03-29T06:14:40.996Z : Bot started
+2024-03-29T06:17:06.550Z : Bot started
+2024-03-29T06:17:07.781Z : message : 6381452440 -> /start
+2024-03-29T06:17:07.784Z : message : 6381452440 -> /start
+2024-03-29T06:17:46.555Z : message : 6381452440 -> refer
+2024-03-29T06:18:28.884Z : Bot started
+2024-03-29T06:18:30.110Z : message : 6381452440 -> buy
+2024-03-29T06:18:30.233Z : 6381452440 : error -> Error: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+2024-03-29T06:18:30.238Z : Bot started
+2024-03-29T06:19:54.062Z : Bot started
+2024-03-29T06:19:55.343Z : message : 6381452440 -> buy
+2024-03-29T06:19:55.351Z : message : 6381452440 -> /start
+2024-03-29T06:19:55.355Z : message : 6381452440 -> /start
+2024-03-29T06:19:55.479Z : 6381452440 : error -> Error: ETELEGRAM: 403 Forbidden: bot was blocked by the user
+2024-03-29T06:19:55.484Z : Bot started
+2024-03-29T06:21:26.952Z : Bot started
+2024-03-29T06:21:28.297Z : message : 6381452440 -> /start
+2024-03-29T06:21:28.304Z : message : 6381452440 -> /start
+2024-03-29T06:21:28.308Z : message : 6381452440 -> /start
+2024-03-29T06:21:28.313Z : message : 6381452440 -> /start
+2024-03-29T06:21:28.321Z : message : 6381452440 -> /start
+2024-03-29T06:21:35.982Z : message : 6381452440 -> /start
+2024-03-29T06:22:00.669Z : message : 6381452440 -> inputref
+2024-03-29T06:23:46.937Z : message : 6381452440 -> /start
+2024-03-29T06:23:49.447Z : message : 6381452440 -> cancel
+2024-03-29T06:24:24.223Z : Bot started
+2024-03-29T06:24:25.906Z : message : 6381452440 -> /start
+2024-03-29T06:24:25.915Z : message : 6381452440 -> /start
+2024-03-29T06:24:50.619Z : message : 6381452440 -> /start
+2024-03-29T06:26:03.687Z : Bot started
+2024-03-29T06:26:04.900Z : message : 6381452440 -> /start
+2024-03-29T06:26:04.903Z : message : 6381452440 -> /start
+2024-03-29T06:29:33.570Z : message : 6381452440 -> /start
+2024-03-29T06:30:02.482Z : Bot started
+2024-03-29T06:31:49.294Z : message : 6381452440 -> /start
+2024-03-29T06:33:05.148Z : message : 6381452440 -> welcome
+2024-03-29T06:33:39.789Z : Bot started
+2024-03-29T06:33:41.105Z : message : 6381452440 -> /start
+2024-03-29T06:33:41.110Z : message : 6381452440 -> /start
+2024-03-29T06:33:48.994Z : message : 6381452440 -> /start
+2024-03-29T07:31:38.927Z : Bot started
+2024-03-29T07:34:08.263Z : Bot started
+2024-03-29T07:34:24.071Z : message : 6381452440 -> /start
+2024-03-29T07:35:42.320Z : message : 6381452440 -> welcome
+2024-03-29T07:35:44.012Z : message : 6381452440 -> create
+2024-03-29T07:35:48.744Z : message : 6381452440 -> buy
+2024-03-29T07:35:50.827Z : message : 6381452440 -> zxcvzxvzxcv
+2024-03-29T07:36:27.870Z : message : 6381452440 -> inj1l49685vnk88zfw2egf6v65se7trw2497wsqk65
+2024-03-29T07:36:31.691Z : message : 6381452440 -> buy
+2024-03-29T07:36:33.881Z : message : 6381452440 -> inj1l49685vnk88zfw2egf6v65se7trw2497wsqk65
+2024-03-29T07:37:06.542Z : message : 6381452440 -> buyX:inj1er0535pz8k3l6wpzm263vv9gmkghwct7he85pl
+2024-03-29T07:39:46.004Z : message : 6381452440 -> buy
+2024-03-29T07:39:50.919Z : message : 6381452440 -> xcvxcv
+2024-03-29T07:40:41.793Z : message : 6381452440 -> /buy
+2024-03-29T07:40:44.393Z : message : 6381452440 -> sadad
+2024-03-29T07:41:24.470Z : Bot started
+2024-03-29T07:41:36.716Z : message : 6381452440 -> /buy
+2024-03-29T07:41:40.487Z : message : 6381452440 -> sdfsd
+2024-03-29T07:41:42.450Z : message : 6381452440 -> zxcv
+2024-03-29T07:41:42.855Z : message : 6381452440 -> zx
+2024-03-29T07:41:43.257Z : message : 6381452440 -> cv
+2024-03-29T07:41:43.261Z : message : 6381452440 -> zx
+2024-03-29T07:41:43.652Z : message : 6381452440 -> cv
+2024-03-29T07:41:43.657Z : message : 6381452440 -> zxc
+2024-03-29T07:44:26.584Z : message : 6381452440 -> /referral
+2024-03-29T07:44:35.730Z : message : 6381452440 -> cancel
+2024-03-29T07:45:49.807Z : Bot started
+2024-03-29T07:46:51.368Z : Bot started
+2024-03-29T07:47:05.038Z : Bot started
+2024-03-29T07:47:59.758Z : Bot started
+2024-03-29T07:48:01.102Z : message : 6381452440 -> /buy
+2024-03-29T07:48:03.604Z : message : 6381452440 -> zxc
+2024-03-29T07:48:39.639Z : Bot started
+2024-03-29T07:48:46.734Z : message : 6381452440 -> /buy
+2024-03-29T07:48:50.295Z : message : 6381452440 -> zxvxvc
+2024-03-29T07:49:06.440Z : message : 6381452440 -> /wallet
+2024-03-29T07:49:13.085Z : message : 6381452440 -> refreshwallet
+2024-03-29T07:49:15.110Z : message : 6381452440 -> reset
+2024-03-29T07:49:17.159Z : message : 6381452440 -> export
+2024-03-29T07:49:19.389Z : message : 6381452440 -> cancel
+2024-03-29T07:49:32.383Z : message : 6381452440 -> /wallet
+2024-03-29T07:49:39.011Z : message : 6381452440 -> reset
+2024-03-29T07:49:40.670Z : message : 6381452440 -> import
+2024-03-29T07:49:42.602Z : message : 6381452440 -> zxcvzxcv
+2024-03-29T18:35:20.504Z : Bot started
+2024-03-29T18:35:47.914Z : message : 6381452440 -> cancel
+2024-03-29T18:37:13.705Z : Bot started
+2024-03-29T18:37:14.961Z : message : 6381452440 -> /ping
+2024-03-29T18:37:20.687Z : message : 6381452440 -> ping
+2024-03-29T18:39:50.710Z : Bot started
+2024-03-29T18:49:53.656Z : Bot started
+2024-03-29T18:49:54.939Z : message : 6381452440 -> /ping
+2024-03-29T18:49:54.941Z : message : 6381452440 -> key
+2024-03-29T18:50:02.486Z : message : 6381452440 -> ping:6381452442:buy
+2024-03-29T18:50:06.475Z : message : 6381452440 -> ping:6381452443:sell
+2024-03-29T18:50:40.308Z : message : 6381452440 -> ping:6381452441:balance
+2024-03-29T18:50:45.136Z : message : 6381452440 -> ping:6381452442:buy
+2024-03-29T18:50:45.942Z : message : 6381452440 -> ping:6381452443:sell
+2024-03-29T18:51:24.774Z : Bot started
+2024-03-29T18:51:26.290Z : message : 6381452440 -> /ping
+2024-03-29T18:51:26.300Z : message : 6381452440 -> key
+2024-03-29T18:56:18.300Z : Bot started
+2024-03-29T19:00:11.192Z : Bot started
+2024-03-29T19:00:12.580Z : message : 6381452440 -> /ping
+2024-03-29T19:00:12.583Z : message : 6381452440 -> key
+2024-03-29T19:00:33.792Z : message : 6381452440 -> /ping
+2024-03-29T19:00:36.036Z : message : 6381452440 -> key
+2024-03-29T19:15:10.533Z : Bot started
+2024-03-29T19:15:11.841Z : message : 6381452440 -> /ping
+2024-03-29T19:15:14.511Z : message : 6381452440 -> key
+2024-03-29T19:15:14.529Z : 6381452440 : error -> Error: EFATAL: Unsupported Buffer file-type
+2024-03-29T19:15:14.540Z : Bot started
+2024-03-29T19:16:01.127Z : Bot started
+2024-03-29T19:16:02.605Z : message : 6381452440 -> key
+2024-03-29T19:18:59.180Z : Bot started
+2024-03-29T19:19:00.484Z : message : 6381452440 -> /ping
+2024-03-29T19:19:00.488Z : message : 6381452440 -> key
+2024-03-29T19:19:00.506Z : 6381452440 : error -> Error: EFATAL: Unsupported Buffer file-type
+2024-03-29T19:19:00.514Z : Bot started
+2024-03-29T19:22:26.172Z : Bot started
+2024-03-29T19:22:27.361Z : message : 6381452440 -> /ping
+2024-03-29T19:22:27.364Z : message : 6381452440 -> key
+2024-03-29T19:24:16.780Z : Bot started
+2024-03-29T19:25:17.801Z : Bot started
+2024-03-29T19:25:34.508Z : Bot started
+2024-03-29T19:31:06.081Z : message : 6381452440 -> /start
+2024-03-29T19:31:13.679Z : message : 6381452440 -> pin
+2024-03-29T19:47:00.754Z : message : 6381452440 -> /ping
+2024-03-29T19:47:03.944Z : message : 6381452440 -> key
+2024-03-30T15:44:44.863Z : Bot started
+2024-03-30T15:47:34.878Z : Bot started
+2024-03-30T16:12:33.925Z : Bot started
+2024-03-30T16:14:54.309Z : Bot started
+2024-03-30T16:20:44.643Z : Bot started
+2024-03-30T16:21:15.761Z : Bot started
+2024-03-30T16:22:00.263Z : message : 6381452440 -> /wallet
+2024-03-30T16:23:07.338Z : message : 6381452440 -> register
+2024-03-30T16:23:08.665Z : message : 6381452440 -> create
+2024-03-30T16:23:13.468Z : message : 6381452440 -> wallet
+2024-03-30T16:23:19.929Z : message : 6381452440 -> reset
+2024-03-30T16:23:21.756Z : message : 6381452440 -> import
+2024-03-30T16:23:29.593Z : message : 6381452440 -> 0x540b5e73c7b363a21173b4022668b8315ba5c6f90d23f6f983c9428a7003d2ad
+2024-03-30T16:24:15.937Z : message : 6381452440 -> import
+2024-03-30T16:24:18.853Z : message : 6381452440 -> 0x9a2feda682faa2f4952753f73eecf2de07b9cc25c4ab38ad076c3576d1084387
+2024-03-30T16:25:50.794Z : Bot started
+2024-03-30T16:26:11.660Z : Bot started
+2024-03-30T16:26:59.713Z : Bot started
+2024-03-30T16:27:01.212Z : message : 6381452440 -> wallet
+2024-03-30T16:28:22.902Z : Bot started
+2024-03-30T16:28:57.217Z : Bot started
+2024-03-30T16:29:26.261Z : Bot started
+2024-03-30T16:29:38.801Z : Bot started
+2024-03-30T16:29:40.176Z : message : 6381452440 -> refreshwallet
+2024-03-30T16:30:35.487Z : Bot started
+2024-03-30T16:30:36.938Z : message : 6381452440 -> wallet
+2024-03-30T16:30:42.906Z : message : 6381452440 -> refreshwallet
+2024-03-30T16:31:11.755Z : Bot started
+2024-03-30T16:31:38.325Z : Bot started
+2024-03-30T16:32:11.444Z : Bot started
+2024-03-30T16:32:35.358Z : Bot started
+2024-03-30T16:32:52.863Z : Bot started
+2024-03-30T16:33:28.842Z : Bot started
+2024-03-30T16:33:35.129Z : message : 6381452440 -> export
+2024-03-30T16:33:37.307Z : message : 6381452440 -> show
+2024-03-30T16:35:31.093Z : Bot started
+2024-03-30T16:35:35.449Z : message : 6381452440 -> /sell
+2024-03-30T16:35:37.634Z : message : 6381452440 -> cancel
+2024-03-30T16:35:39.985Z : message : 6381452440 -> /wallet
+2024-03-30T16:35:53.202Z : message : 6381452440 -> /leaderboard
+2024-03-30T16:39:25.710Z : Bot started
+2024-03-30T16:39:59.145Z : Bot started
+2024-03-30T16:40:00.582Z : message : 6381452440 -> cancel
+2024-03-30T16:40:03.590Z : message : 6381452440 -> cancel
+2024-03-30T16:40:59.513Z : message : 6381452440 -> /leaderboard
+2024-03-30T16:41:01.591Z : message : 6381452440 -> /wallet
+2024-03-31T16:50:43.089Z : Bot started
+2024-03-31T16:50:44.371Z : message : 6381452440 -> /buy
+2024-03-31T16:50:55.429Z : message : 6381452440 -> factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA
+2024-03-31T16:51:33.969Z : message : 6381452440 -> /buy
+2024-03-31T16:51:41.263Z : message : 6381452440 -> inj1l49685vnk88zfw2egf6v65se7trw2497wsqk65
+2024-03-31T16:56:11.551Z : Bot started
+2024-03-31T16:56:12.731Z : message : 6381452440 -> /buy
+2024-03-31T17:09:59.621Z : Bot started
+2024-03-31T17:10:25.657Z : message : 6381452440 -> factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA
+2024-03-31T17:10:33.599Z : message : 6381452440 -> /buy
+2024-03-31T17:10:35.895Z : message : 6381452440 -> factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA
+2024-03-31T17:11:31.989Z : Bot started
+2024-03-31T17:11:33.128Z : message : 6381452440 -> /buy
+2024-03-31T17:11:36.058Z : message : 6381452440 -> factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA
+2024-03-31T17:12:20.566Z : Bot started
+2024-03-31T17:12:26.367Z : message : 6381452440 -> /buy
+2024-03-31T17:12:28.347Z : message : 6381452440 -> factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA
+2024-03-31T17:13:55.320Z : Bot started
+2024-03-31T17:14:15.447Z : message : 6381452440 -> /buy
+2024-03-31T17:14:19.701Z : message : 6381452440 -> factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA
+2024-03-31T17:17:48.802Z : Bot started
+2024-03-31T17:17:50.686Z : message : 6381452440 -> /buy
+2024-03-31T17:17:54.917Z : message : 6381452440 -> factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA
+2024-03-31T17:19:03.784Z : Bot started
+2024-03-31T17:19:04.937Z : message : 6381452440 -> /buy
+2024-03-31T17:19:07.763Z : message : 6381452440 -> factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA
+2024-03-31T17:19:30.065Z : Bot started
+2024-03-31T17:20:18.541Z : Bot started
+2024-03-31T17:20:19.657Z : message : 6381452440 -> /buy
+2024-03-31T17:20:22.074Z : message : 6381452440 -> factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA
+2024-03-31T17:21:30.118Z : message : 6381452440 -> /buy
+2024-03-31T17:21:41.871Z : Bot started
+2024-03-31T17:21:44.959Z : message : 6381452440 -> /buy
+2024-03-31T17:21:49.635Z : message : 6381452440 -> factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA
+2024-03-31T17:23:52.959Z : Bot started
+2024-03-31T17:23:54.126Z : message : 6381452440 -> /buy
+2024-03-31T17:24:01.791Z : message : 6381452440 -> factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA
+2024-03-31T17:25:44.731Z : message : 6381452440 -> /wallet
+2024-03-31T17:25:47.349Z : message : 6381452440 -> reset
+2024-03-31T17:25:48.849Z : message : 6381452440 -> import
+2024-03-31T17:25:50.964Z : message : 6381452440 -> 0x9a9044a0f632ddff421d775db93bd13eac31bb87313efb2b687abf198c9deae6
+2024-03-31T17:26:07.617Z : message : 6381452440 -> buy
+2024-03-31T17:26:10.049Z : message : 6381452440 -> factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA
+2024-03-31T17:26:12.520Z : message : 6381452440 -> buyX:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T17:26:20.466Z : message : 6381452440 -> cancel
+2024-03-31T17:27:23.591Z : Bot started
+2024-03-31T17:27:29.728Z : message : 6381452440 -> /buy
+2024-03-31T17:27:32.311Z : message : 6381452440 -> factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA
+2024-03-31T17:27:35.043Z : message : 6381452440 -> buyX:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T17:27:39.313Z : message : 6381452440 -> 0.001
+2024-03-31T17:31:45.416Z : Bot started
+2024-03-31T17:31:46.568Z : message : 6381452440 -> /settings
+2024-03-31T17:31:50.880Z : message : 6381452440 -> buy1
+2024-03-31T17:31:55.860Z : message : 6381452440 -> 0.001
+2024-03-31T17:31:59.520Z : message : 6381452440 -> /buy
+2024-03-31T17:32:07.884Z : message : 6381452440 -> factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA
+2024-03-31T17:32:38.466Z : message : 6381452440 -> buyS:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T17:33:25.733Z : Bot started
+2024-03-31T17:34:16.959Z : message : 6381452440 -> buyS:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T17:34:36.029Z : Bot started
+2024-03-31T17:35:04.892Z : Bot started
+2024-03-31T17:35:12.759Z : Bot started
+2024-03-31T17:35:28.747Z : message : 6381452440 -> buyS:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T17:37:10.590Z : Bot started
+2024-03-31T17:37:14.648Z : query : 6381452440 -> buyS:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T17:38:07.058Z : Bot started
+2024-03-31T17:38:14.512Z : message : 6381452440 -> /buy
+2024-03-31T17:38:18.438Z : message : 6381452440 -> factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA
+2024-03-31T17:38:22.835Z : query : 6381452440 -> buyS:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T17:38:41.313Z : Bot started
+2024-03-31T17:38:43.359Z : query : 6381452440 -> buyS:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T17:40:37.717Z : Bot started
+2024-03-31T17:40:39.055Z : query : 6381452440 -> buyS:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T17:41:00.005Z : Bot started
+2024-03-31T17:41:01.770Z : query : 6381452440 -> buyS:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T17:41:28.713Z : Bot started
+2024-03-31T17:41:29.813Z : query : 6381452440 -> buyS:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T17:42:06.156Z : Bot started
+2024-03-31T17:42:07.309Z : query : 6381452440 -> buyS:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T17:42:55.418Z : Bot started
+2024-03-31T17:43:05.126Z : query : 6381452440 -> buyS:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T17:44:28.884Z : Bot started
+2024-03-31T17:45:13.119Z : Bot started
+2024-03-31T17:45:33.852Z : Bot started
+2024-03-31T17:45:50.318Z : Bot started
+2024-03-31T17:45:52.075Z : message : 6381452440 -> /buy
+2024-03-31T17:45:54.637Z : message : 6381452440 -> factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA
+2024-03-31T17:45:58.738Z : query : 6381452440 -> buyS:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T17:47:16.054Z : Bot started
+2024-03-31T17:47:17.391Z : query : 6381452440 -> buyS:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T18:00:45.706Z : query : 6381452440 -> buyS:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T18:01:02.479Z : Bot started
+2024-03-31T18:03:37.662Z : Bot started
+2024-03-31T18:04:12.729Z : Bot started
+2024-03-31T18:04:13.967Z : query : 6381452440 -> buyS:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T18:05:40.894Z : Bot started
+2024-03-31T18:06:38.205Z : Bot started
+2024-03-31T18:07:14.102Z : Bot started
+2024-03-31T18:08:02.928Z : query : 6381452440 -> buyS:inj1eswdzx773we5zu2mz0zcmm7l5msr8wcss8ek0f
+2024-03-31T18:09:13.629Z : message : 6381452440 -> /buy
+2024-03-31T18:09:16.852Z : message : 6381452440 -> inj15579l82y9yt8cgnrw3pqc8ur26j55jpdmwde5k
+2024-03-31T18:09:57.955Z : message : 6381452440 -> /buy
+2024-03-31T18:09:59.386Z : message : 6381452440 -> factory/inj1mly2ykhf6f9tdj58pvndjf4q8dzdl4myjqm9t6/ALIEN
+2024-03-31T18:10:14.986Z : message : 6381452440 -> /buy
+2024-03-31T18:10:16.517Z : message : 6381452440 -> factory/inj1xy3kvlr4q4wdd6lrelsrw2fk2ged0any44hhwq/KIRA
+2024-03-31T18:10:27.611Z : message : 6381452440 -> /buy
+2024-03-31T18:11:03.620Z : message : 6381452440 -> factory/inj1mly2ykhf6f9tdj58pvndjf4q8dzdl4myjqm9t6/ALIEN
+2024-03-31T18:14:22.068Z : Bot started
+2024-03-31T18:14:47.345Z : Bot started
+2024-03-31T18:15:08.074Z : message : 6381452440 -> /buy
+2024-03-31T18:15:11.568Z : message : 6381452440 -> factory/inj1mly2ykhf6f9tdj58pvndjf4q8dzdl4myjqm9t6/ALIEN
+2024-03-31T18:15:57.259Z : Bot started
+2024-03-31T18:16:06.991Z : message : 6381452440 -> /buy
+2024-03-31T18:16:10.245Z : message : 6381452440 -> factory/inj1mly2ykhf6f9tdj58pvndjf4q8dzdl4myjqm9t6/ALIEN
+2024-03-31T18:18:00.849Z : Bot started
+2024-03-31T18:18:08.507Z : Bot started
+2024-03-31T18:20:10.380Z : Bot started
+2024-03-31T18:21:46.134Z : Bot started
+2024-03-31T18:23:29.381Z : Bot started
+2024-04-09T18:32:23.301Z : Bot started
+2024-04-09T18:32:31.881Z : message : 6381452440 -> /start
+2024-04-09T18:32:38.294Z : query : 6381452440 -> help
+2024-04-11T17:01:18.426Z : Bot started
+2024-04-11T17:03:06.661Z : message : 6860642001 -> /start
+2024-04-11T17:03:15.184Z : query : 6860642001 -> inputref
+2024-04-13T06:24:28.613Z : query : 6860642001 -> inputref
+2024-04-14T13:04:08.925Z : message : 6860642001 -> /start
+2024-04-14T13:05:33.325Z : Bot started
+2024-04-14T13:05:33.973Z : message : 6860642001 -> /start
+2024-04-14T21:26:44.219Z : query : 6860642001 -> inputref
+2024-04-14T21:28:13.473Z : Bot started
+2024-04-14T21:28:14.151Z : message : 6860642001 -> /start
+2024-04-14T21:32:27.394Z : Bot started
+2024-04-14T21:32:41.894Z : Bot started
+2024-04-14T21:36:40.717Z : Bot started
+2024-04-14T21:41:45.986Z : Bot started
+2024-04-14T21:45:19.192Z : Bot started
+2024-04-14T21:46:23.852Z : Bot started
+2024-04-14T21:47:18.279Z : Bot started
+2024-04-14T21:47:35.886Z : Bot started
+2024-04-14T21:48:45.335Z : Bot started
+2024-04-14T21:52:55.781Z : Bot started
+2024-04-14T22:54:43.909Z : Bot started
+2024-04-14T22:54:57.547Z : query : 6860642001 -> role:carrier
+2024-04-14T22:55:52.621Z : Bot started
+2024-04-14T22:56:00.338Z : query : 6860642001 -> c-name
+2024-04-14T22:56:01.039Z : query : 6860642001 -> c-mc
+2024-04-14T22:56:01.721Z : query : 6860642001 -> verification
+2024-04-14T22:56:34.549Z : Bot started
+2024-04-14T22:57:19.236Z : Bot started
+2024-04-14T22:58:30.352Z : Bot started
+2024-04-14T22:59:29.825Z : Bot started
+2024-04-14T23:00:29.420Z : Bot started
+2024-04-14T23:01:05.728Z : Bot started
+2024-04-14T23:01:20.843Z : query : 6860642001 -> role:carrier
+2024-04-14T23:03:45.249Z : Bot started
+2024-04-14T23:03:53.348Z : Bot started
+2024-04-14T23:04:57.208Z : Bot started
+2024-04-14T23:05:34.012Z : Bot started
+2024-04-14T23:06:09.181Z : Bot started
+2024-04-14T23:07:29.005Z : Bot started
+2024-04-14T23:08:54.600Z : Bot started
+2024-04-14T23:27:53.480Z : Bot started
+2024-04-14T23:28:57.764Z : Bot started
+2024-04-14T23:29:10.557Z : Bot started
+2024-04-14T23:29:15.482Z : Bot started
+2024-04-14T23:29:29.688Z : Bot started
+2024-04-14T23:29:36.559Z : Bot started
+2024-04-14T23:29:42.964Z : Bot started
+2024-04-14T23:29:50.380Z : Bot started
+2024-04-14T23:30:13.590Z : Bot started
+2024-04-14T23:30:18.583Z : Bot started
+2024-04-14T23:30:29.628Z : query : 6860642001 -> role:carrier
+2024-04-14T23:30:35.843Z : query : 6860642001 -> c-addr
+2024-04-14T23:30:39.014Z : query : 6860642001 -> c-addr
+2024-04-14T23:31:40.019Z : Bot started
+2024-04-14T23:34:29.612Z : Bot started
+2024-04-14T23:34:45.739Z : Bot started
+2024-04-14T23:34:58.841Z : Bot started
+2024-04-14T23:35:23.311Z : Bot started
+2024-04-14T23:35:23.894Z : query : 6860642001 -> role:carrier
+2024-04-14T23:35:26.095Z : query : 6860642001 -> c_addr
+2024-04-14T23:35:27.850Z : query : 6860642001 -> c_name
+2024-04-14T23:35:29.537Z : query : 6860642001 -> c_mc
+2024-04-14T23:35:31.499Z : query : 6860642001 -> fleet
+2024-04-14T23:35:32.909Z : query : 6860642001 -> dis_phone
+2024-04-14T23:35:34.196Z : query : 6860642001 -> finish
+2024-04-14T23:35:35.237Z : query : 6860642001 -> dis_drivers
+2024-04-14T23:36:07.118Z : Bot started
+2024-04-14T23:37:22.809Z : Bot started
+2024-04-14T23:37:23.368Z : query : 6860642001 -> c_addr
+2024-04-14T23:37:26.021Z : query : 6860642001 -> c_name
+2024-04-14T23:37:27.713Z : query : 6860642001 -> cancel
+2024-04-14T23:37:47.722Z : Bot started
+2024-04-14T23:37:59.067Z : Bot started
+2024-04-14T23:39:46.162Z : Bot started
+2024-04-14T23:39:46.728Z : query : 6860642001 -> dis_phone
+2024-04-14T23:39:47.730Z : query : 6860642001 -> dis_drivers
+2024-04-14T23:39:50.854Z : query : 6860642001 -> cancel
+2024-04-14T23:39:52.407Z : query : 6860642001 -> cancel
+2024-04-14T23:39:54.224Z : query : 6860642001 -> cancel
+2024-04-14T23:39:55.755Z : query : 6860642001 -> cancel
+2024-04-14T23:41:14.331Z : Bot started
+2024-04-14T23:41:47.084Z : Bot started
+2024-04-14T23:41:57.529Z : Bot started
+2024-04-14T23:42:48.990Z : Bot started
+2024-04-14T23:43:08.987Z : Bot started
+2024-04-14T23:43:13.852Z : query : 6860642001 -> dis_phone
+2024-04-14T23:43:22.228Z : query : 6860642001 -> route
+2024-04-14T23:43:43.946Z : Bot started
+2024-04-14T23:43:48.275Z : query : 6860642001 -> route
+2024-04-14T23:43:49.748Z : query : 6860642001 -> dis_phone
+2024-04-14T23:45:54.190Z : Bot started
+2024-04-14T23:46:03.069Z : Bot started
+2024-04-14T23:46:05.710Z : query : 6860642001 -> role: carrier
+2024-04-14T23:46:45.458Z : Bot started
+2024-04-14T23:46:49.766Z : Bot started
+2024-04-14T23:46:53.461Z : query : 6860642001 -> role:carrier
+2024-04-14T23:50:14.765Z : Bot started
+2024-04-14T23:50:15.330Z : query : 6860642001 -> c_mc
+2024-04-14T23:51:37.702Z : Bot started
+2024-04-14T23:51:52.766Z : Bot started
+2024-04-15T00:12:42.887Z : Bot started
+2024-04-15T00:12:47.215Z : query : 6860642001 -> role:carrier
+2024-04-15T00:12:49.228Z : query : 6860642001 -> price
+2024-04-15T00:13:45.527Z : query : 6715083084 -> role:carrier
+2024-04-15T00:13:47.180Z : query : 6715083084 -> fleet
+2024-04-15T00:15:39.527Z : Bot started
+2024-04-15T00:16:45.323Z : Bot started
+2024-04-15T00:17:16.377Z : Bot started
+2024-04-15T00:17:29.516Z : query : 6860642001 -> role:carrier
+2024-04-15T00:17:32.095Z : query : 6860642001 -> fleet
+2024-04-15T00:17:45.694Z : query : 6715083084 -> c_mc
+2024-04-15T00:32:02.961Z : Bot started
+2024-04-15T00:36:19.616Z : Bot started
+2024-04-15T00:38:40.793Z : Bot started
+2024-04-15T00:39:21.417Z : Bot started
+2024-04-15T00:39:26.825Z : Bot started
+2024-04-15T00:39:45.328Z : query : 6860642001 -> role:carrier
+2024-04-15T00:40:00.228Z : Bot started
+2024-04-15T00:48:35.573Z : Bot started
+2024-04-15T00:48:50.381Z : Bot started
+2024-04-15T01:27:36.388Z : query : 6860642001 -> role:carrier
+2024-04-15T01:30:18.711Z : Bot started
+2024-04-15T01:30:56.059Z : query : 6860642001 -> role:carrier
+2024-04-15T01:31:13.634Z : query : 6860642001 -> address
+2024-04-15T01:34:12.890Z : Bot started
+2024-04-15T01:37:15.701Z : Bot started
+2024-04-15T01:38:21.664Z : Bot started
+2024-04-15T01:39:11.877Z : Bot started
+2024-04-15T01:39:22.509Z : Bot started
+2024-04-15T01:39:38.544Z : Bot started
+2024-04-15T01:39:40.972Z : query : 6860642001 -> role:carrier
+2024-04-15T01:39:55.485Z : Bot started
+2024-04-15T01:40:30.104Z : Bot started
+2024-04-15T01:40:34.157Z : Bot started
+2024-04-15T01:41:01.071Z : query : 6860642001 -> role:carrier
+2024-04-15T01:44:37.703Z : Bot started
+2024-04-15T01:44:39.991Z : query : 6860642001 -> name
+2024-04-15T01:46:43.910Z : Bot started
+2024-04-15T01:46:46.405Z : query : 6860642001 -> popularRoute
+2024-04-15T01:46:56.989Z : query : 6860642001 -> role:carrier
+2024-04-15T01:47:00.514Z : query : 6860642001 -> address
+2024-04-15T01:47:20.052Z : query : 6860642001 -> role:carrier
+2024-04-15T01:47:22.838Z : query : 6860642001 -> mc
+2024-04-15T01:47:42.738Z : Bot started
+2024-04-15T01:47:47.261Z : Bot started
+2024-04-15T01:47:49.883Z : query : 6860642001 -> role:carrier
+2024-04-15T01:47:52.001Z : query : 6860642001 -> mc
+2024-04-15T01:48:37.898Z : Bot started
+2024-04-15T01:49:47.104Z : Bot started
+2024-04-15T01:51:49.929Z : Bot started
+2024-04-15T01:52:27.063Z : Bot started
+2024-04-15T01:52:38.531Z : Bot started
+2024-04-15T01:55:12.284Z : Bot started
+2024-04-15T01:59:08.409Z : Bot started
+2024-04-15T01:59:22.881Z : Bot started
+2024-04-15T02:00:19.705Z : Bot started
+2024-04-15T02:01:17.706Z : Bot started
+2024-04-15T02:01:38.764Z : Bot started
+2024-04-15T02:03:10.306Z : query : 6715083084 -> role:carrier
+2024-04-15T02:03:11.902Z : query : 6715083084 -> fleetSize
+2024-04-15T02:04:08.299Z : Bot started
+2024-04-15T02:04:17.054Z : query : 6715083084 -> role:carrier
+2024-04-15T02:04:18.601Z : query : 6715083084 -> mc
+2024-04-15T02:04:27.510Z : query : 6715083084 -> name
+2024-04-15T02:04:53.618Z : Bot started
+2024-04-15T02:04:54.194Z : query : 6715083084 -> price
+2024-04-15T02:05:06.844Z : query : 6715083084 -> address
+2024-04-15T02:07:17.590Z : Bot started
+2024-04-15T02:07:18.176Z : query : 6715083084 -> carrierDriver
+2024-04-15T02:07:25.267Z : query : 6715083084 -> price
+2024-04-15T02:07:41.322Z : query : 6715083084 -> price
+2024-04-15T02:09:02.445Z : Bot started
+2024-04-15T02:10:22.796Z : Bot started
+2024-04-15T02:10:59.151Z : Bot started
+2024-04-15T02:11:07.034Z : Bot started
+2024-04-15T02:11:38.585Z : Bot started
+2024-04-15T02:11:41.017Z : query : 6715083084 -> role:carrier
+2024-04-15T02:11:42.665Z : query : 6715083084 -> popularRoute
+2024-04-15T02:12:05.767Z : Bot started
+2024-04-15T02:12:13.937Z : Bot started
+2024-04-15T02:12:49.808Z : Bot started
+2024-04-15T02:12:57.633Z : Bot started
+2024-04-15T02:12:59.976Z : query : 6715083084 -> role:carrier
+2024-04-15T02:13:02.063Z : query : 6715083084 -> address
+2024-04-15T02:14:05.151Z : Bot started
+2024-04-15T02:14:21.048Z : query : 6715083084 -> role:carrier
+2024-04-15T02:14:26.326Z : query : 6715083084 -> address
+2024-04-15T02:21:13.451Z : Bot started
+2024-04-15T02:21:28.342Z : Bot started
+2024-04-15T02:22:04.450Z : Bot started
+2024-04-15T02:22:14.462Z : Bot started
+2024-04-15T02:23:44.408Z : Bot started
+2024-04-15T02:24:05.592Z : Bot started
+2024-04-15T02:25:03.076Z : Bot started
+2024-04-15T02:25:05.753Z : query : 6715083084 -> role:carrier
+2024-04-15T02:25:36.194Z : Bot started
+2024-04-15T02:25:38.948Z : query : 6715083084 -> role:carrier
+2024-04-15T02:26:21.923Z : Bot started
+2024-04-15T02:26:24.465Z : query : 6715083084 -> role:carrier
+2024-04-15T02:26:43.704Z : Bot started
+2024-04-15T02:26:48.869Z : Bot started
+2024-04-15T02:26:51.658Z : query : 6715083084 -> role:carrier
+2024-04-15T02:26:56.912Z : query : 6715083084 -> name
+2024-04-15T02:27:04.191Z : query : 6715083084 -> mc
+2024-04-15T02:27:37.085Z : query : 6715083084 -> role:carrier
+2024-04-15T02:27:51.041Z : Bot started
+2024-04-15T02:27:51.698Z : query : 6715083084 -> fleetSize
+2024-04-15T02:27:58.351Z : query : 6715083084 -> carrierDispatchPhone
+2024-04-15T02:28:02.290Z : query : 6715083084 -> carrierDispatchName
+2024-04-15T02:28:07.155Z : query : 6715083084 -> popularRoute
+2024-04-15T02:28:26.756Z : Bot started
+2024-04-15T02:35:15.326Z : Bot started
+2024-04-15T02:36:17.753Z : Bot started
+2024-04-15T02:37:06.701Z : Bot started
+2024-04-15T02:37:28.318Z : query : 6715083084 -> role:carrier
+2024-04-15T02:37:49.622Z : Bot started
+2024-04-15T02:37:52.731Z : query : 6715083084 -> role:carrier
+2024-04-15T02:37:57.943Z : query : 6715083084 -> name
+2024-04-15T02:38:12.441Z : query : 6715083084 -> mc
+2024-04-15T02:38:41.900Z : Bot started
+2024-04-15T02:38:49.351Z : query : 6715083084 -> role:carrier
+2024-04-15T02:39:11.530Z : Bot started
+2024-04-15T02:39:13.380Z : query : 6715083084 -> role:carrier
+2024-04-15T02:39:24.310Z : Bot started
+2024-04-15T02:39:45.431Z : Bot started
+2024-04-15T02:41:50.612Z : Bot started
+2024-04-15T02:42:21.622Z : query : 6715083084 -> role:carrier
+2024-04-15T02:42:23.443Z : query : 6715083084 -> carrierDriver
+2024-04-15T02:43:26.088Z : Bot started
+2024-04-15T02:43:30.439Z : Bot started
+2024-04-15T02:45:35.047Z : Bot started
+2024-04-15T02:45:36.930Z : query : 6715083084 -> carrierDriver
+2024-04-15T02:48:02.196Z : Bot started
+2024-04-15T02:48:45.897Z : Bot started
+2024-04-15T03:05:14.912Z : Bot started
+2024-04-15T03:05:46.617Z : Bot started
+2024-04-15T03:07:37.515Z : Bot started
+2024-04-15T03:09:07.138Z : Bot started
+2024-04-15T03:09:10.525Z : query : 6715083084 -> role:carrier
+2024-04-15T03:09:12.316Z : query : 6715083084 -> carrierDriver
+2024-04-15T03:10:09.642Z : Bot started
+2024-04-15T03:10:40.716Z : Bot started
+2024-04-15T03:27:28.980Z : query : 6715083084 -> finish
+2024-04-15T03:28:18.170Z : Bot started
+2024-04-15T03:29:23.718Z : Bot started
+2024-04-15T03:29:28.237Z : Bot started
+2024-04-15T03:29:43.846Z : Bot started
+2024-04-15T03:31:47.990Z : Bot started
+2024-04-15T03:31:48.539Z : query : 6715083084 -> role:carrier
+2024-04-15T03:31:50.399Z : query : 6715083084 -> finish
+2024-04-15T03:33:12.996Z : Bot started
+2024-04-15T03:34:18.830Z : Bot started
+2024-04-15T03:34:55.443Z : Bot started
+2024-04-15T03:35:00.694Z : Bot started
+2024-04-15T03:36:04.829Z : Bot started
+2024-04-15T03:36:33.355Z : Bot started
+2024-04-15T03:36:39.709Z : Bot started
+2024-04-15T03:37:18.162Z : Bot started
+2024-04-15T03:37:29.452Z : query : 6715083084 -> role:carrier
+2024-04-15T03:37:32.450Z : query : 6715083084 -> finish
+2024-04-15T03:37:53.479Z : Bot started
+2024-04-15T03:37:56.131Z : query : 6715083084 -> role:carrier
+2024-04-15T03:37:58.360Z : query : 6715083084 -> finish
+2024-04-15T03:38:03.267Z : query : 6715083084 -> cancel
+2024-04-15T03:39:44.288Z : Bot started
+2024-04-15T03:40:08.623Z : query : 6715083084 -> role:carrier
+2024-04-15T03:41:50.485Z : Bot started
+2024-04-15T03:47:38.425Z : Bot started
+2024-04-15T03:49:02.803Z : Bot started
+2024-04-15T03:49:03.385Z : query : 6715083084 -> finish
+2024-04-15T03:49:30.826Z : Bot started
+2024-04-15T03:49:44.965Z : Bot started
+2024-04-15T03:50:41.831Z : Bot started
+2024-04-15T03:50:51.712Z : query : 6715083084 -> role:carrier
+2024-04-15T03:50:53.494Z : query : 6715083084 -> finish
+2024-04-15T03:51:09.846Z : query : 6715083084 -> role:carrier
+2024-04-15T03:51:31.112Z : query : 6715083084 -> role:carrier
+2024-04-15T03:51:46.724Z : query : 6715083084 -> role:carrier
+2024-04-15T03:53:56.226Z : Bot started
+2024-04-15T03:54:01.837Z : Bot started
+2024-04-15T03:54:08.302Z : Bot started
+2024-04-15T03:54:44.187Z : Bot started
+2024-04-15T03:54:58.150Z : Bot started
+2024-04-15T03:55:01.686Z : query : 6715083084 -> role:carrier
+2024-04-15T03:55:04.461Z : query : 6715083084 -> finish
+2024-04-15T03:55:46.358Z : Bot started
+2024-04-15T03:55:57.115Z : Bot started
+2024-04-15T03:56:47.314Z : Bot started
+2024-04-15T03:57:10.569Z : Bot started
+2024-04-15T03:57:18.568Z : Bot started
+2024-04-15T03:57:44.577Z : Bot started
+2024-04-15T03:58:14.079Z : Bot started
+2024-04-15T04:02:19.778Z : Bot started
+2024-04-15T04:17:04.454Z : query : 6715083084 -> cancel
+2024-04-15T04:17:17.531Z : query : 6715083084 -> role:carrier
+2024-04-15T04:18:44.364Z : Bot started
+2024-04-15T04:18:49.342Z : query : 6715083084 -> role:carrier
+2024-04-15T04:20:02.469Z : Bot started
+2024-04-15T04:21:44.431Z : Bot started
+2024-04-15T04:21:46.522Z : query : 6715083084 -> role:carrier
+2024-04-15T04:22:26.408Z : query : 6715083084 -> role:carrier
+2024-04-15T04:22:31.069Z : query : 6715083084 -> finish
+2024-04-15T04:23:15.128Z : Bot started
+2024-04-15T04:23:46.145Z : query : 6715083084 -> role:carrier
+2024-04-15T04:25:47.757Z : Bot started
+2024-04-15T04:25:50.391Z : query : 6715083084 -> role:carrier
+2024-04-15T04:27:22.331Z : Bot started
+2024-04-15T04:27:24.485Z : query : 6715083084 -> role:carrier
+2024-04-15T04:29:51.405Z : Bot started
+2024-04-15T04:29:51.985Z : query : 6715083084 -> load_info
+2024-04-15T04:29:55.000Z : query : 6715083084 -> load_info
+2024-04-15T04:29:56.525Z : query : 6715083084 -> edit_info
+2024-04-15T04:30:47.466Z : Bot started
+2024-04-15T04:31:30.386Z : Bot started
+2024-04-15T04:31:32.710Z : query : 6715083084 -> role:carrier
+2024-04-15T04:31:34.937Z : query : 6715083084 -> edit_info
+2024-04-15T04:31:41.005Z : query : 6715083084 -> role:carrier
+2024-04-15T04:31:42.901Z : query : 6715083084 -> edit_info
+2024-04-15T04:31:51.337Z : query : 6715083084 -> name
+2024-04-15T04:35:46.333Z : query : 6715083084 -> role:carrier
+2024-04-15T04:35:49.259Z : query : 6715083084 -> edit_info
+2024-04-15T04:36:20.472Z : query : 6715083084 -> price
+2024-04-15T04:36:57.600Z : Bot started
+2024-04-15T04:37:14.398Z : Bot started
+2024-04-15T04:37:18.575Z : query : 6715083084 -> role:carrier
+2024-04-15T04:37:20.957Z : query : 6715083084 -> edit_info
+2024-04-15T04:37:23.381Z : query : 6715083084 -> name
+2024-04-15T04:38:21.586Z : Bot started
+2024-04-15T04:39:12.759Z : Bot started
+2024-04-15T04:40:27.503Z : Bot started
+2024-04-15T04:40:56.217Z : Bot started
+2024-04-15T04:41:25.393Z : Bot started
+2024-04-15T04:41:59.461Z : Bot started
+2024-04-15T04:42:23.679Z : Bot started
+2024-04-15T04:42:47.623Z : Bot started
+2024-04-15T04:42:50.737Z : query : 6715083084 -> role:carrier
+2024-04-15T04:42:53.662Z : query : 6715083084 -> edit_info
+2024-04-15T04:42:56.134Z : query : 6715083084 -> address
+2024-04-15T04:44:19.382Z : Bot started
+2024-04-15T04:44:21.645Z : query : 6715083084 -> role:carrier
+2024-04-15T04:44:25.390Z : query : 6715083084 -> edit_info
+2024-04-15T04:44:27.389Z : query : 6715083084 -> name
+2024-04-15T04:45:44.393Z : Bot started
+2024-04-15T04:45:57.083Z : query : 6715083084 -> role:carrier
+2024-04-15T04:46:26.499Z : Bot started
+2024-04-15T04:46:32.668Z : query : 6715083084 -> role:carrier
+2024-04-15T04:47:14.371Z : Bot started
+2024-04-15T04:47:14.953Z : query : 6715083084 -> edit_info
+2024-04-15T04:47:17.871Z : query : 6715083084 -> mc
+2024-04-15T04:47:55.279Z : query : 6715083084 -> load_info
+2024-04-15T04:48:04.699Z : query : 6715083084 -> role:client
+2024-04-15T04:48:54.925Z : Bot started
+2024-04-15T04:48:59.009Z : query : 6715083084 -> role:carrier
+2024-04-15T04:49:01.964Z : query : 6715083084 -> edit_info
+2024-04-15T04:49:17.563Z : query : 6715083084 -> mc
+2024-04-15T04:56:26.450Z : query : 6715083084 -> role:client
+2024-04-15T04:57:28.432Z : Bot started
+2024-04-15T04:59:37.795Z : Bot started
+2024-04-15T05:02:58.448Z : query : 6860642001 -> role:carrier
+2024-04-15T05:03:09.376Z : query : 6860642001 -> role:carrier
+2024-04-15T05:04:17.699Z : Bot started
+2024-04-15T05:04:22.033Z : query : 6860642001 -> role:carrier
+2024-04-15T05:32:38.056Z : query : 6715083084 -> role:carrier
+2024-04-15T05:32:50.865Z : query : 6715083084 -> role:carrier
+2024-04-15T05:33:10.487Z : query : 6381452440 -> role:carrier
+2024-04-15T05:34:03.781Z : Bot started
+2024-04-15T05:34:06.144Z : query : 6381452440 -> role:carrier
+2024-04-15T05:34:06.225Z : 6381452440 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-15T05:34:06.226Z : Bot started
+2024-04-15T05:34:40.221Z : Bot started
+2024-04-15T05:34:40.793Z : query : 6381452440 -> role:carrier
+2024-04-15T05:34:41.204Z : 6381452440 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-15T05:34:41.206Z : Bot started
+2024-04-15T05:35:18.556Z : Bot started
+2024-04-15T05:35:22.388Z : query : 6381452440 -> role:carrier
+2024-04-15T05:38:10.975Z : Bot started
+2024-04-15T05:38:13.862Z : query : 6381452440 -> role:carrier
+2024-04-15T05:38:13.944Z : 6381452440 : error -> TypeError: Cannot use 'in' operator to search for 'address' in undefined
+2024-04-15T05:38:13.946Z : Bot started
+2024-04-15T05:39:20.321Z : Bot started
+2024-04-15T05:39:20.879Z : query : 6381452440 -> role:carrier
+2024-04-15T05:39:41.205Z : query : 6381452440 -> role:carrier
+2024-04-15T05:40:11.743Z : query : 6381452440 -> address
+2024-04-15T05:40:59.863Z : Bot started
+2024-04-15T05:41:19.764Z : Bot started
+2024-04-15T05:41:59.187Z : Bot started
+2024-04-15T05:42:01.643Z : query : 6381452440 -> role:carrier
+2024-04-15T05:42:03.831Z : query : 6381452440 -> address
+2024-04-15T05:42:56.248Z : Bot started
+2024-04-15T05:42:59.028Z : query : 6381452440 -> role:carrier
+2024-04-15T05:43:00.844Z : query : 6381452440 -> address
+2024-04-15T05:45:23.979Z : Bot started
+2024-04-15T05:45:26.323Z : query : 6381452440 -> role:carrier
+2024-04-15T05:45:28.031Z : query : 6381452440 -> carrierDispatchPhone
+2024-04-15T05:46:39.307Z : Bot started
+2024-04-15T05:46:48.574Z : Bot started
+2024-04-15T05:46:57.833Z : query : 6381452440 -> role:carrier
+2024-04-15T05:47:19.880Z : query : 6381452440 -> role:carrier
+2024-04-15T05:47:27.109Z : query : 6381452440 -> address
+2024-04-15T05:47:33.641Z : query : 6381452440 -> role:client
+2024-04-15T05:55:07.134Z : Bot started
+2024-04-15T05:55:41.353Z : Bot started
+2024-04-15T05:56:25.943Z : Bot started
+2024-04-15T05:57:04.042Z : Bot started
+2024-04-15T05:58:48.422Z : Bot started
+2024-04-15T06:10:19.701Z : Bot started
+2024-04-15T06:17:23.494Z : Bot started
+2024-04-15T06:17:37.503Z : Bot started
+2024-04-15T06:18:02.244Z : Bot started
+2024-04-15T06:18:08.466Z : query : 6381452440 -> role:client
+2024-04-15T06:18:31.653Z : Bot started
+2024-04-15T06:21:00.858Z : Bot started
+2024-04-15T06:21:15.476Z : Bot started
+2024-04-15T06:22:04.542Z : Bot started
+2024-04-15T06:22:29.900Z : Bot started
+2024-04-15T06:27:45.372Z : Bot started
+2024-04-15T06:29:00.937Z : Bot started
+2024-04-15T06:29:22.754Z : Bot started
+2024-04-15T06:33:04.008Z : Bot started
+2024-04-15T06:34:38.518Z : Bot started
+2024-04-15T06:36:47.411Z : Bot started
+2024-04-15T06:40:43.924Z : Bot started
+2024-04-15T06:41:05.860Z : Bot started
+2024-04-15T06:41:19.775Z : Bot started
+2024-04-15T06:43:27.262Z : Bot started
+2024-04-15T06:43:36.613Z : Bot started
+2024-04-15T06:44:52.014Z : Bot started
+2024-04-15T06:45:05.796Z : Bot started
+2024-04-15T06:45:19.903Z : Bot started
+2024-04-15T06:47:15.881Z : Bot started
+2024-04-15T06:47:22.293Z : Bot started
+2024-04-15T06:47:25.938Z : Bot started
+2024-04-15T06:48:00.187Z : Bot started
+2024-04-15T06:48:31.062Z : Bot started
+2024-04-15T13:08:08.362Z : Bot started
+2024-04-15T13:08:29.938Z : query : 6860642001 -> role:client
+2024-04-15T13:08:32.446Z : query : 6860642001 -> address
+2024-04-15T13:08:48.992Z : query : 6860642001 -> name
+2024-04-15T13:14:30.605Z : Bot started
+2024-04-15T13:16:05.907Z : Bot started
+2024-04-15T13:16:23.284Z : query : 6860642001 -> role:client
+2024-04-15T13:16:27.276Z : query : 6860642001 -> address
+2024-04-15T13:18:39.954Z : query : 6860642001 -> role:client
+2024-04-15T13:18:42.336Z : query : 6860642001 -> carrierDriver
+2024-04-15T13:22:22.014Z : Bot started
+2024-04-15T13:22:25.784Z : query : 6860642001 -> role:client
+2024-04-15T13:22:27.980Z : query : 6860642001 -> pickUpLocation
+2024-04-15T13:22:41.264Z : query : 6860642001 -> name
+2024-04-15T13:24:04.380Z : Bot started
+2024-04-15T13:24:16.836Z : Bot started
+2024-04-15T13:24:54.014Z : Bot started
+2024-04-15T13:25:04.077Z : Bot started
+2024-04-15T13:25:12.537Z : Bot started
+2024-04-15T13:25:32.354Z : Bot started
+2024-04-15T13:25:45.511Z : Bot started
+2024-04-15T13:25:52.213Z : Bot started
+2024-04-15T13:26:18.011Z : Bot started
+2024-04-15T13:27:23.250Z : Bot started
+2024-04-15T13:27:47.021Z : Bot started
+2024-04-15T13:27:51.583Z : query : 6860642001 -> role:client
+2024-04-15T13:27:55.705Z : query : 6860642001 -> pickUpLocation
+2024-04-15T13:28:50.995Z : Bot started
+2024-04-15T13:28:53.731Z : query : 6860642001 -> role:client
+2024-04-15T13:28:56.686Z : query : 6860642001 -> pickUpLocation
+2024-04-15T13:31:39.284Z : Bot started
+2024-04-15T13:44:04.281Z : Bot started
+2024-04-15T13:44:59.696Z : Bot started
+2024-04-15T13:45:09.547Z : query : 6860642001 -> role:client
+2024-04-15T13:45:13.888Z : query : 6860642001 -> pickUpLocation
+2024-04-15T13:45:58.581Z : Bot started
+2024-04-15T13:46:09.924Z : query : 6860642001 -> role:client
+2024-04-15T13:46:13.406Z : query : 6860642001 -> pickUpLocation
+2024-04-15T13:52:01.977Z : Bot started
+2024-04-15T15:00:02.985Z : Bot started
+2024-04-15T15:52:31.717Z : Bot started
+2024-04-15T15:52:40.831Z : query : 6860642001 -> role:client
+2024-04-15T15:52:44.072Z : query : 6860642001 -> pickUpLocation
+2024-04-15T15:53:19.769Z : Bot started
+2024-04-15T15:54:16.120Z : query : 6860642001 -> role:client
+2024-04-15T15:54:29.118Z : query : 6860642001 -> pickUpLocation
+2024-04-15T15:55:12.092Z : Bot started
+2024-04-15T16:31:46.937Z : query : 6715083084 -> role:client
+2024-04-15T16:32:27.512Z : Bot started
+2024-04-15T16:35:38.813Z : Bot started
+2024-04-15T16:35:53.595Z : query : 6715083084 -> role:client
+2024-04-15T16:35:56.708Z : query : 6715083084 -> weight
+2024-04-15T16:36:12.548Z : Bot started
+2024-04-15T16:37:21.443Z : Bot started
+2024-04-15T16:37:23.565Z : query : 6715083084 -> role:client
+2024-04-15T16:37:26.538Z : query : 6715083084 -> temperature
+2024-04-15T16:38:27.773Z : Bot started
+2024-04-15T16:39:23.519Z : Bot started
+2024-04-15T16:42:17.450Z : Bot started
+2024-04-15T16:42:41.627Z : Bot started
+2024-04-15T16:44:21.538Z : Bot started
+2024-04-15T16:45:04.142Z : Bot started
+2024-04-15T16:45:21.804Z : Bot started
+2024-04-15T16:45:43.596Z : Bot started
+2024-04-15T16:46:42.465Z : query : 6715083084 -> role:carrier
+2024-04-15T16:46:44.542Z : query : 6715083084 -> edit_info
+2024-04-15T16:46:46.501Z : query : 6715083084 -> address
+2024-04-15T16:50:48.389Z : Bot started
+2024-04-15T16:51:01.640Z : query : 6715083084 -> role:carrier
+2024-04-15T16:51:03.707Z : query : 6715083084 -> address
+2024-04-15T16:51:10.532Z : query : 6715083084 -> name
+2024-04-15T16:51:13.262Z : query : 6715083084 -> mc
+2024-04-15T16:51:16.563Z : query : 6715083084 -> fleetSize
+2024-04-15T16:51:19.785Z : query : 6715083084 -> popularRoute
+2024-04-15T16:51:22.372Z : query : 6715083084 -> price
+2024-04-15T16:51:25.997Z : query : 6715083084 -> carrierDispatchName
+2024-04-15T16:51:28.738Z : query : 6715083084 -> carrierDispatchPhone
+2024-04-15T16:51:32.045Z : query : 6715083084 -> carrierDriver
+2024-04-15T16:51:37.500Z : query : 6715083084 -> finish
+2024-04-15T16:51:56.717Z : query : 6715083084 -> role:carrier
+2024-04-15T16:51:59.129Z : query : 6715083084 -> edit_info
+2024-04-15T16:52:02.257Z : query : 6715083084 -> price
+2024-04-15T16:53:39.597Z : Bot started
+2024-04-15T16:54:13.022Z : Bot started
+2024-04-15T16:54:23.113Z : Bot started
+2024-04-15T16:55:12.051Z : Bot started
+2024-04-15T17:08:11.113Z : Bot started
+2024-04-15T17:08:21.132Z : query : 6715083084 -> role:client
+2024-04-15T17:09:01.522Z : Bot started
+2024-04-15T17:10:31.031Z : Bot started
+2024-04-15T17:11:01.282Z : Bot started
+2024-04-15T17:11:02.052Z : query : 6715083084 -> pickUpLocation
+2024-04-15T17:11:32.051Z : Bot started
+2024-04-15T17:11:34.290Z : query : 6715083084 -> role:client
+2024-04-15T17:11:36.459Z : query : 6715083084 -> dropOffLocation
+2024-04-15T17:11:40.289Z : query : 6715083084 -> pickUpDate
+2024-04-15T17:11:43.931Z : query : 6715083084 -> dropOffDate
+2024-04-15T17:11:46.691Z : query : 6715083084 -> trailor
+2024-04-15T17:11:50.332Z : query : 6715083084 -> cargo
+2024-04-15T17:11:53.681Z : query : 6715083084 -> rate
+2024-04-15T17:11:56.983Z : query : 6715083084 -> weight
+2024-04-15T17:11:59.754Z : query : 6715083084 -> mcNumber
+2024-04-15T17:12:02.422Z : query : 6715083084 -> hazmat
+2024-04-15T17:12:05.112Z : query : 6715083084 -> pickUpTime
+2024-04-15T17:12:08.285Z : query : 6715083084 -> dropOffTime
+2024-04-15T17:12:11.128Z : query : 6715083084 -> temperature
+2024-04-15T17:12:13.683Z : query : 6715083084 -> dockNumber
+2024-04-15T17:12:16.269Z : query : 6715083084 -> terms
+2024-04-15T17:12:26.527Z : query : 6715083084 -> trackingId
+2024-04-15T17:12:30.256Z : query : 6715083084 -> tolerance
+2024-04-15T17:13:13.294Z : Bot started
+2024-04-15T17:13:17.479Z : Bot started
+2024-04-15T17:13:36.677Z : Bot started
+2024-04-15T17:13:45.603Z : Bot started
+2024-04-15T17:13:59.459Z : Bot started
+2024-04-15T17:14:11.308Z : Bot started
+2024-04-15T17:17:54.974Z : Bot started
+2024-04-15T17:18:07.400Z : query : 6715083084 -> finish
+2024-04-15T17:18:36.351Z : Bot started
+2024-04-15T17:18:40.438Z : query : 6715083084 -> finish
+2024-04-15T17:19:10.440Z : query : 6715083084 -> role:client
+2024-04-15T17:19:28.398Z : query : 6715083084 -> pickUpLocation
+2024-04-15T17:19:45.654Z : query : 6715083084 -> role:client
+2024-04-15T17:19:50.860Z : query : 6715083084 -> finish_client
+2024-04-15T17:22:44.933Z : Bot started
+2024-04-15T17:23:02.841Z : query : 6715083084 -> finish_client
+2024-04-15T17:23:11.961Z : query : 6715083084 -> terms
+2024-04-15T17:23:29.302Z : Bot started
+2024-04-15T17:23:31.531Z : query : 6715083084 -> finish_client
+2024-04-15T17:24:48.010Z : Bot started
+2024-04-15T17:24:48.604Z : query : 6715083084 -> finish_client
+2024-04-15T17:25:14.025Z : Bot started
+2024-04-15T17:25:20.300Z : query : 6715083084 -> role:carrier
+2024-04-15T17:25:22.653Z : query : 6715083084 -> load_info
+2024-04-15T17:33:27.182Z : Bot started
+2024-04-15T17:33:27.756Z : query : 6715083084 -> load_info
+2024-04-15T17:38:16.030Z : Bot started
+2024-04-15T17:38:49.475Z : Bot started
+2024-04-15T17:39:25.874Z : query : 6715083084 -> finish_client
+2024-04-15T17:40:22.654Z : Bot started
+2024-04-15T17:47:37.947Z : Bot started
+2024-04-15T17:49:23.605Z : Bot started
+2024-04-15T17:50:24.663Z : Bot started
+2024-04-15T17:50:40.268Z : query : 6715083084 -> finish_client
+2024-04-15T17:50:40.272Z : 6715083084 : error -> ReferenceError: Cannot access 'res' before initialization
+2024-04-15T17:50:40.273Z : Bot started
+2024-04-15T17:51:24.368Z : Bot started
+2024-04-15T17:51:24.988Z : query : 6715083084 -> finish_client
+2024-04-15T17:51:24.991Z : query : 6715083084 -> finish_client
+2024-04-15T17:51:24.993Z : 6715083084 : error -> ReferenceError: Cannot access 'res' before initialization
+2024-04-15T17:51:24.995Z : Bot started
+2024-04-15T17:51:25.025Z : 6715083084 : error -> ReferenceError: Cannot access 'res' before initialization
+2024-04-15T17:51:25.031Z : Bot started
+2024-04-15T17:52:17.263Z : Bot started
+2024-04-15T17:52:17.859Z : query : 6715083084 -> finish_client
+2024-04-15T17:52:17.863Z : query : 6715083084 -> finish_client
+2024-04-15T17:52:17.864Z : query : 6715083084 -> finish_client
+2024-04-15T17:52:17.865Z : query : 6715083084 -> finish_client
+2024-04-15T17:53:34.229Z : Bot started
+2024-04-15T17:53:36.371Z : query : 6715083084 -> finish_client
+2024-04-15T17:54:13.744Z : Bot started
+2024-04-15T17:54:18.131Z : query : 6715083084 -> finish
+2024-04-15T17:54:34.533Z : query : 6715083084 -> role:client
+2024-04-15T17:54:42.820Z : query : 6715083084 -> pickUpLocation
+2024-04-15T17:54:45.915Z : query : 6715083084 -> dropOffLocation
+2024-04-15T17:54:48.231Z : query : 6715083084 -> pickUpDate
+2024-04-15T17:54:50.399Z : query : 6715083084 -> dropOffDate
+2024-04-15T17:54:52.758Z : query : 6715083084 -> trailor
+2024-04-15T17:54:55.287Z : query : 6715083084 -> cargo
+2024-04-15T17:54:57.445Z : query : 6715083084 -> rate
+2024-04-15T17:54:59.741Z : query : 6715083084 -> weight
+2024-04-15T17:55:02.200Z : query : 6715083084 -> mcNumber
+2024-04-15T17:55:04.555Z : query : 6715083084 -> hazmat
+2024-04-15T17:55:08.791Z : query : 6715083084 -> pickUpTime
+2024-04-15T17:55:12.568Z : query : 6715083084 -> dropOffTime
+2024-04-15T17:55:15.289Z : query : 6715083084 -> temperature
+2024-04-15T17:55:17.704Z : query : 6715083084 -> dockNumber
+2024-04-15T17:55:20.095Z : query : 6715083084 -> terms
+2024-04-15T17:55:22.409Z : query : 6715083084 -> trackingId
+2024-04-15T17:55:24.782Z : query : 6715083084 -> tolerance
+2024-04-15T17:55:27.510Z : query : 6715083084 -> finish_client
+2024-04-15T17:55:46.152Z : query : 6715083084 -> tolerance
+2024-04-15T17:56:08.699Z : Bot started
+2024-04-15T17:56:09.262Z : query : 6715083084 -> dropOffLocation
+2024-04-15T17:56:16.382Z : query : 6715083084 -> trailor
+2024-04-15T17:56:18.724Z : query : 6715083084 -> trackingId
+2024-04-15T17:56:21.180Z : query : 6715083084 -> terms
+2024-04-15T17:56:23.444Z : query : 6715083084 -> temperature
+2024-04-15T17:56:26.133Z : query : 6715083084 -> dockNumber
+2024-04-15T17:56:28.228Z : query : 6715083084 -> pickUpDate
+2024-04-15T17:56:30.266Z : query : 6715083084 -> dropOffDate
+2024-04-15T17:56:32.454Z : query : 6715083084 -> cargo
+2024-04-15T17:56:34.526Z : query : 6715083084 -> rate
+2024-04-15T17:56:37.300Z : query : 6715083084 -> weight
+2024-04-15T17:56:39.236Z : query : 6715083084 -> mcNumber
+2024-04-15T17:56:41.646Z : query : 6715083084 -> hazmat
+2024-04-15T17:56:43.575Z : query : 6715083084 -> pickUpTime
+2024-04-15T17:56:45.628Z : query : 6715083084 -> dropOffTime
+2024-04-15T17:56:49.486Z : query : 6715083084 -> pickUpLocation
+2024-04-15T17:56:52.183Z : query : 6715083084 -> finish_client
+2024-04-15T17:57:03.320Z : query : 6715083084 -> tolerance
+2024-04-15T17:57:11.589Z : query : 6715083084 -> finish_client
+2024-04-15T17:57:42.509Z : query : 6715083084 -> finish_client
+2024-04-15T17:58:08.678Z : Bot started
+2024-04-15T17:58:20.024Z : query : 6715083084 -> finish_client
+2024-04-15T17:58:34.492Z : query : 6715083084 -> cancel
+2024-04-15T17:58:36.479Z : query : 6715083084 -> cancel
+2024-04-15T17:58:37.406Z : query : 6715083084 -> cancel
+2024-04-15T17:58:46.192Z : Bot started
+2024-04-15T17:59:08.173Z : Bot started
+2024-04-15T18:07:22.719Z : Bot started
+2024-04-15T18:12:17.610Z : Bot started
+2024-04-15T18:12:40.099Z : query : 6715083084 -> role:carrier
+2024-04-15T18:12:41.980Z : query : 6715083084 -> load_info
+2024-04-15T18:13:07.778Z : Bot started
+2024-04-15T18:13:22.368Z : Bot started
+2024-04-15T18:13:22.934Z : query : 6715083084 -> load_info
+2024-04-15T18:13:39.822Z : Bot started
+2024-04-15T18:13:41.421Z : query : 6715083084 -> load_info
+2024-04-15T18:13:47.505Z : query : 6715083084 -> load_num:661d61b66d1b415054a905a4
+2024-04-15T18:14:36.766Z : Bot started
+2024-04-15T18:14:50.842Z : Bot started
+2024-04-15T18:14:56.163Z : Bot started
+2024-04-15T18:15:42.823Z : query : 6715083084 -> load_num:661d6a640917b09de1558f81
+2024-04-15T18:18:45.166Z : Bot started
+2024-04-15T18:39:51.908Z : Bot started
+2024-04-15T18:40:06.176Z : query : 6715083084 -> load_num:661d61b66d1b415054a905a4
+2024-04-15T18:40:49.611Z : Bot started
+2024-04-15T18:40:50.210Z : query : 6715083084 -> load_num:661d61b66d1b415054a905a4
+2024-04-15T18:40:59.781Z : query : 6715083084 -> cancel
+2024-04-15T22:31:48.242Z : Bot started
+2024-04-15T22:45:53.642Z : query : 1031944494 -> role:carrier
+2024-04-15T22:46:20.807Z : query : 1031944494 -> carrierDriver
+2024-04-15T22:46:25.654Z : query : 1031944494 -> address
+2024-04-15T22:46:27.733Z : query : 1031944494 -> name
+2024-04-15T22:46:28.965Z : query : 1031944494 -> mc
+2024-04-15T22:46:30.308Z : query : 1031944494 -> popularRoute
+2024-04-15T22:46:31.461Z : query : 1031944494 -> fleetSize
+2024-04-15T22:46:33.158Z : query : 1031944494 -> carrierDispatchName
+2024-04-15T22:46:38.696Z : query : 1031944494 -> carrierDispatchName
+2024-04-15T22:58:03.940Z : Bot started
+2024-04-16T00:15:45.277Z : query : 1031944494 -> carrierDispatchPhone
+2024-04-16T00:15:51.518Z : query : 1031944494 -> role:client
+2024-04-16T00:15:51.523Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T00:15:51.525Z : Bot started
+2024-04-16T01:51:27.313Z : Bot started
+2024-04-16T01:53:38.421Z : query : 6860642001 -> role:client
+2024-04-16T01:53:38.424Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:53:38.425Z : Bot started
+2024-04-16T01:53:59.685Z : Bot started
+2024-04-16T01:54:00.327Z : query : 6860642001 -> role:client
+2024-04-16T01:54:00.330Z : query : 6860642001 -> role:client
+2024-04-16T01:54:00.333Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:54:00.335Z : Bot started
+2024-04-16T01:54:00.338Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:54:00.340Z : Bot started
+2024-04-16T01:55:37.750Z : Bot started
+2024-04-16T01:55:38.355Z : query : 6860642001 -> role:client
+2024-04-16T01:55:38.359Z : query : 6860642001 -> role:client
+2024-04-16T01:55:38.361Z : query : 1031944494 -> role:client
+2024-04-16T01:55:38.363Z : query : 1031944494 -> role:client
+2024-04-16T01:55:38.365Z : query : 1031944494 -> role:client
+2024-04-16T01:55:38.367Z : query : 1031944494 -> role:client
+2024-04-16T01:55:38.369Z : query : 1031944494 -> role:client
+2024-04-16T01:55:38.371Z : query : 1031944494 -> role:client
+2024-04-16T01:55:38.373Z : query : 1031944494 -> role:client
+2024-04-16T01:55:38.375Z : query : 1031944494 -> role:client
+2024-04-16T01:55:38.377Z : query : 1031944494 -> role:client
+2024-04-16T01:55:38.378Z : query : 1031944494 -> role:client
+2024-04-16T01:55:38.379Z : query : 6860642001 -> role:client
+2024-04-16T01:55:38.382Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:55:38.383Z : Bot started
+2024-04-16T01:55:38.386Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:55:38.387Z : Bot started
+2024-04-16T01:55:38.390Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:55:38.392Z : Bot started
+2024-04-16T01:55:38.395Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:55:38.397Z : Bot started
+2024-04-16T01:55:38.400Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:55:38.401Z : Bot started
+2024-04-16T01:55:38.405Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:55:38.406Z : Bot started
+2024-04-16T01:55:38.409Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:55:38.410Z : Bot started
+2024-04-16T01:55:38.413Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:55:38.415Z : Bot started
+2024-04-16T01:55:38.419Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:55:38.421Z : Bot started
+2024-04-16T01:55:38.424Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:55:38.426Z : Bot started
+2024-04-16T01:55:38.430Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:55:38.432Z : Bot started
+2024-04-16T01:55:38.436Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:55:38.438Z : Bot started
+2024-04-16T01:55:38.441Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:55:38.443Z : Bot started
+2024-04-16T01:56:04.690Z : Bot started
+2024-04-16T01:56:05.306Z : query : 6860642001 -> role:client
+2024-04-16T01:56:05.310Z : query : 6860642001 -> role:client
+2024-04-16T01:56:05.311Z : query : 1031944494 -> role:client
+2024-04-16T01:56:05.313Z : query : 1031944494 -> role:client
+2024-04-16T01:56:05.315Z : query : 1031944494 -> role:client
+2024-04-16T01:56:05.316Z : query : 1031944494 -> role:client
+2024-04-16T01:56:05.317Z : query : 1031944494 -> role:client
+2024-04-16T01:56:05.319Z : query : 1031944494 -> role:client
+2024-04-16T01:56:05.320Z : query : 1031944494 -> role:client
+2024-04-16T01:56:05.322Z : query : 1031944494 -> role:client
+2024-04-16T01:56:05.323Z : query : 1031944494 -> role:client
+2024-04-16T01:56:05.324Z : query : 1031944494 -> role:client
+2024-04-16T01:56:05.326Z : query : 6860642001 -> role:client
+2024-04-16T01:56:05.328Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:05.330Z : Bot started
+2024-04-16T01:56:05.333Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:05.334Z : Bot started
+2024-04-16T01:56:05.339Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:05.341Z : Bot started
+2024-04-16T01:56:05.344Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:05.345Z : Bot started
+2024-04-16T01:56:05.348Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:05.349Z : Bot started
+2024-04-16T01:56:05.353Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:05.356Z : Bot started
+2024-04-16T01:56:05.359Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:05.361Z : Bot started
+2024-04-16T01:56:05.364Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:05.365Z : Bot started
+2024-04-16T01:56:05.370Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:05.372Z : Bot started
+2024-04-16T01:56:05.375Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:05.376Z : Bot started
+2024-04-16T01:56:05.379Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:05.380Z : Bot started
+2024-04-16T01:56:05.382Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:05.383Z : Bot started
+2024-04-16T01:56:05.385Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:05.387Z : Bot started
+2024-04-16T01:56:32.475Z : Bot started
+2024-04-16T01:56:33.110Z : query : 1031944494 -> role:client
+2024-04-16T01:56:33.114Z : query : 1031944494 -> role:client
+2024-04-16T01:56:33.116Z : query : 1031944494 -> role:client
+2024-04-16T01:56:33.118Z : query : 1031944494 -> role:client
+2024-04-16T01:56:33.119Z : query : 1031944494 -> role:client
+2024-04-16T01:56:33.121Z : query : 1031944494 -> role:client
+2024-04-16T01:56:33.122Z : query : 1031944494 -> role:client
+2024-04-16T01:56:33.164Z : query : 1031944494 -> role:client
+2024-04-16T01:56:33.168Z : query : 1031944494 -> role:client
+2024-04-16T01:56:33.170Z : query : 1031944494 -> role:client
+2024-04-16T01:56:33.173Z : query : 6860642001 -> role:client
+2024-04-16T01:56:33.177Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:33.181Z : Bot started
+2024-04-16T01:56:33.189Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:33.195Z : Bot started
+2024-04-16T01:56:33.206Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:33.208Z : Bot started
+2024-04-16T01:56:33.213Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:33.217Z : Bot started
+2024-04-16T01:56:33.221Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:33.222Z : Bot started
+2024-04-16T01:56:33.234Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:33.236Z : Bot started
+2024-04-16T01:56:33.239Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:33.240Z : Bot started
+2024-04-16T01:56:33.243Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:33.245Z : Bot started
+2024-04-16T01:56:33.251Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:33.256Z : Bot started
+2024-04-16T01:56:33.260Z : 1031944494 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:33.261Z : Bot started
+2024-04-16T01:56:33.268Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:56:33.270Z : Bot started
+2024-04-16T01:58:01.574Z : Bot started
+2024-04-16T01:58:02.338Z : query : 6860642001 -> role:client
+2024-04-16T01:58:02.342Z : query : 6860642001 -> role:client
+2024-04-16T01:58:02.343Z : query : 6860642001 -> role:client
+2024-04-16T01:58:02.345Z : query : 6860642001 -> role:carrier
+2024-04-16T01:58:02.349Z : query : 6860642001 -> role:carrier
+2024-04-16T01:58:02.355Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:58:02.358Z : Bot started
+2024-04-16T01:58:02.360Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:58:02.361Z : Bot started
+2024-04-16T01:58:02.363Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:58:02.365Z : Bot started
+2024-04-16T01:58:36.455Z : Bot started
+2024-04-16T01:58:37.107Z : query : 6860642001 -> role:client
+2024-04-16T01:58:37.110Z : query : 6860642001 -> role:client
+2024-04-16T01:58:37.112Z : query : 6860642001 -> role:client
+2024-04-16T01:58:37.114Z : query : 6860642001 -> role:carrier
+2024-04-16T01:58:37.118Z : query : 6860642001 -> role:carrier
+2024-04-16T01:58:37.126Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:58:37.128Z : Bot started
+2024-04-16T01:58:37.131Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:58:37.132Z : Bot started
+2024-04-16T01:58:37.136Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:58:37.137Z : Bot started
+2024-04-16T01:59:36.833Z : Bot started
+2024-04-16T01:59:37.451Z : query : 6860642001 -> role:client
+2024-04-16T01:59:37.454Z : query : 6860642001 -> role:client
+2024-04-16T01:59:37.456Z : query : 6860642001 -> role:client
+2024-04-16T01:59:37.458Z : query : 6860642001 -> role:carrier
+2024-04-16T01:59:37.464Z : query : 6860642001 -> role:carrier
+2024-04-16T01:59:37.471Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:59:37.473Z : Bot started
+2024-04-16T01:59:37.476Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:59:37.477Z : Bot started
+2024-04-16T01:59:37.480Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T01:59:37.481Z : Bot started
+2024-04-16T02:03:45.587Z : Bot started
+2024-04-16T02:04:01.212Z : query : 6860642001 -> role:carrier
+2024-04-16T02:04:03.414Z : query : 6860642001 -> role:client
+2024-04-16T02:04:03.418Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T02:04:03.420Z : Bot started
+2024-04-16T02:05:26.327Z : Bot started
+2024-04-16T02:05:26.911Z : query : 6860642001 -> role:client
+2024-04-16T02:05:26.919Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T02:05:26.921Z : Bot started
+2024-04-16T02:06:16.186Z : Bot started
+2024-04-16T02:06:16.759Z : query : 6860642001 -> role:client
+2024-04-16T02:06:16.764Z : query : 6860642001 -> role:client
+2024-04-16T02:06:16.767Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T02:06:16.769Z : Bot started
+2024-04-16T02:06:16.771Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T02:06:16.773Z : Bot started
+2024-04-16T02:06:40.673Z : Bot started
+2024-04-16T02:06:41.265Z : query : 6860642001 -> role:client
+2024-04-16T02:06:41.273Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T02:06:41.275Z : Bot started
+2024-04-16T02:07:02.929Z : Bot started
+2024-04-16T02:07:03.527Z : query : 6860642001 -> role:client
+2024-04-16T02:07:03.532Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T02:07:03.534Z : Bot started
+2024-04-16T02:07:41.862Z : Bot started
+2024-04-16T02:07:42.446Z : query : 6860642001 -> role:client
+2024-04-16T02:07:42.459Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T02:07:42.461Z : Bot started
+2024-04-16T02:08:12.590Z : Bot started
+2024-04-16T02:08:23.022Z : query : 6860642001 -> role:client
+2024-04-16T02:08:23.031Z : 6860642001 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-16T02:08:23.033Z : Bot started
+2024-04-16T02:09:36.027Z : Bot started
+2024-04-16T02:09:36.638Z : query : 6860642001 -> role:client
+2024-04-16T02:09:48.572Z : query : 6860642001 -> role:client
+2024-04-16T02:09:50.137Z : query : 6860642001 -> temperature
+2024-04-16T02:12:03.959Z : Bot started
+2024-04-16T02:17:29.873Z : query : 6860642001 -> role:client
+2024-04-16T02:17:31.763Z : query : 6860642001 -> mcNumber
+2024-04-16T02:17:33.079Z : query : 6860642001 -> dropOffTime
+2024-04-16T02:17:34.478Z : query : 6860642001 -> dockNumber
+2024-04-16T02:17:35.756Z : query : 6860642001 -> trackingId
+2024-04-16T02:17:36.917Z : query : 6860642001 -> rate
+2024-04-16T02:17:37.679Z : query : 6860642001 -> cargo
+2024-04-16T02:17:38.361Z : query : 6860642001 -> dropOffDate
+2024-04-16T02:17:38.910Z : query : 6860642001 -> pickUpTime
+2024-04-16T02:21:39.944Z : query : 1031944494 -> role:client
+2024-04-16T02:21:46.003Z : query : 1031944494 -> pickUpLocation
+2024-04-16T02:21:46.924Z : query : 1031944494 -> pickUpLocation
+2024-04-16T02:22:05.738Z : query : 1031944494 -> dropOffLocation
+2024-04-16T02:27:22.496Z : query : 6860642001 -> role:client
+2024-04-16T02:27:24.637Z : query : 6860642001 -> pickUpLocation
+2024-04-16T02:29:07.210Z : query : 6860642001 -> role:carrier
+2024-04-16T02:29:10.065Z : query : 6860642001 -> fleetSize
+2024-04-16T02:29:10.526Z : query : 6860642001 -> price
+2024-04-16T02:29:13.061Z : query : 6860642001 -> mc
+2024-04-16T02:37:13.935Z : query : 6860642001 -> carrierDriver
+2024-04-16T02:37:54.692Z : query : 6860642001 -> address
+2024-04-16T02:37:55.157Z : query : 6860642001 -> name
+2024-04-16T02:37:55.623Z : query : 6860642001 -> fleetSize
+2024-04-18T16:51:47.838Z : Bot started
+2024-04-18T16:51:52.624Z : query : 6715083084 -> role:carrier
+2024-04-18T16:52:01.027Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T16:52:59.256Z : Bot started
+2024-04-18T16:53:30.028Z : Bot started
+2024-04-18T16:53:43.302Z : Bot started
+2024-04-18T16:53:45.870Z : query : 6715083084 -> name
+2024-04-18T16:54:21.966Z : Bot started
+2024-04-18T16:54:48.271Z : Bot started
+2024-04-18T16:55:21.883Z : Bot started
+2024-04-18T16:55:30.769Z : query : 6715083084 -> role:carrier
+2024-04-18T16:55:33.627Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T16:55:36.146Z : query : 6715083084 -> load_info
+2024-04-18T16:55:38.794Z : query : 6715083084 -> mc
+2024-04-18T16:55:41.016Z : query : 6715083084 -> carrierDispatchName
+2024-04-18T16:55:42.958Z : query : 6715083084 -> carrierDispatchPhone
+2024-04-18T16:55:44.122Z : query : 6715083084 -> carrierDriver
+2024-04-18T16:56:02.574Z : Bot started
+2024-04-18T16:57:14.953Z : Bot started
+2024-04-18T16:59:07.807Z : Bot started
+2024-04-18T16:59:15.797Z : query : 6715083084 -> role:carrier
+2024-04-18T16:59:17.931Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T16:59:19.569Z : query : 6715083084 -> fleetSize
+2024-04-18T17:00:40.553Z : Bot started
+2024-04-18T17:01:04.345Z : Bot started
+2024-04-18T17:01:45.136Z : Bot started
+2024-04-18T17:02:26.065Z : Bot started
+2024-04-18T17:03:22.518Z : Bot started
+2024-04-18T17:04:01.578Z : Bot started
+2024-04-18T17:04:04.894Z : query : 6715083084 -> role:carrier
+2024-04-18T17:04:07.051Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T17:04:10.425Z : query : 6715083084 -> name
+2024-04-18T17:07:38.678Z : Bot started
+2024-04-18T17:12:35.449Z : Bot started
+2024-04-18T17:13:30.111Z : Bot started
+2024-04-18T17:13:34.016Z : query : 6715083084 -> role:carrier
+2024-04-18T17:13:37.944Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T17:13:40.410Z : query : 6715083084 -> address
+2024-04-18T17:15:09.533Z : Bot started
+2024-04-18T17:15:59.025Z : Bot started
+2024-04-18T17:16:33.587Z : Bot started
+2024-04-18T17:16:40.095Z : query : 6715083084 -> role:carrier
+2024-04-18T17:16:42.247Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T17:16:43.672Z : query : 6715083084 -> price
+2024-04-18T17:21:51.916Z : Bot started
+2024-04-18T17:21:57.649Z : query : 6715083084 -> role:carrier
+2024-04-18T17:21:59.746Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T17:22:03.397Z : query : 6715083084 -> mc
+2024-04-18T17:22:05.220Z : query : 6715083084 -> price
+2024-04-18T17:22:08.836Z : query : 6715083084 -> carrierDispatchPhone
+2024-04-18T17:23:25.612Z : Bot started
+2024-04-18T17:24:33.706Z : Bot started
+2024-04-18T17:24:47.796Z : Bot started
+2024-04-18T17:24:57.391Z : Bot started
+2024-04-18T17:25:15.088Z : Bot started
+2024-04-18T17:26:04.796Z : Bot started
+2024-04-18T17:26:59.495Z : Bot started
+2024-04-18T17:27:20.251Z : Bot started
+2024-04-18T17:27:28.982Z : query : 6715083084 -> mc
+2024-04-18T17:27:30.596Z : query : 6715083084 -> popularRoute
+2024-04-18T17:27:32.031Z : query : 6715083084 -> carrierDispatchName
+2024-04-18T17:28:03.744Z : Bot started
+2024-04-18T17:28:09.286Z : query : 6715083084 -> role:carrier
+2024-04-18T17:28:11.413Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T17:28:14.956Z : query : 6715083084 -> load_info
+2024-04-18T17:28:15.914Z : query : 6715083084 -> mc
+2024-04-18T17:28:17.533Z : query : 6715083084 -> fleetSize
+2024-04-18T17:28:18.217Z : query : 6715083084 -> price
+2024-04-18T17:28:19.053Z : query : 6715083084 -> carrierDispatchPhone
+2024-04-18T17:29:37.178Z : Bot started
+2024-04-18T17:30:00.268Z : Bot started
+2024-04-18T17:30:28.029Z : Bot started
+2024-04-18T17:30:31.289Z : query : 6715083084 -> role:carrier
+2024-04-18T17:30:33.194Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T17:30:35.214Z : query : 6715083084 -> load_info
+2024-04-18T17:30:46.966Z : query : 6715083084 -> price
+2024-04-18T17:30:49.136Z : query : 6715083084 -> load_num:661d61b66d1b415054a905a4
+2024-04-18T17:30:50.185Z : query : 6715083084 -> load_num:661d6a0f85e5abb9f051bd3e
+2024-04-18T17:30:50.925Z : query : 6715083084 -> load_num:661d6a640917b09de1558f81
+2024-04-18T17:30:52.610Z : query : 6715083084 -> carrierDispatchName
+2024-04-18T17:30:54.577Z : query : 6715083084 -> fleetSize
+2024-04-18T17:30:55.676Z : query : 6715083084 -> mc
+2024-04-18T17:31:52.379Z : Bot started
+2024-04-18T17:31:53.073Z : query : 6715083084 -> popularRoute
+2024-04-18T17:31:53.078Z : query : 6715083084 -> fleetSize
+2024-04-18T17:31:57.532Z : query : 6715083084 -> role:carrier
+2024-04-18T17:32:28.995Z : Bot started
+2024-04-18T17:32:32.432Z : query : 6715083084 -> role:carrier
+2024-04-18T17:32:35.526Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T17:32:37.108Z : query : 6715083084 -> address
+2024-04-18T17:32:38.485Z : query : 6715083084 -> name
+2024-04-18T17:33:11.700Z : query : 6715083084 -> name
+2024-04-18T17:33:13.118Z : query : 6715083084 -> mc
+2024-04-18T17:33:40.957Z : Bot started
+2024-04-18T17:33:45.668Z : query : 6715083084 -> role:carrier
+2024-04-18T17:33:49.269Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T17:33:52.038Z : query : 6715083084 -> address
+2024-04-18T17:33:57.674Z : query : 6715083084 -> name
+2024-04-18T17:34:19.577Z : query : 6715083084 -> fleetSize
+2024-04-18T17:34:20.997Z : query : 6715083084 -> price
+2024-04-18T17:34:23.654Z : query : 6715083084 -> name
+2024-04-18T17:36:07.199Z : Bot started
+2024-04-18T17:36:10.150Z : query : 6715083084 -> role:carrier
+2024-04-18T17:36:11.654Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T17:36:13.232Z : query : 6715083084 -> address
+2024-04-18T17:36:14.577Z : query : 6715083084 -> name
+2024-04-18T17:36:15.629Z : query : 6715083084 -> mc
+2024-04-18T17:36:16.317Z : query : 6715083084 -> fleetSize
+2024-04-18T17:36:16.814Z : query : 6715083084 -> popularRoute
+2024-04-18T17:36:32.164Z : query : 6715083084 -> carrierDriver
+2024-04-18T17:36:34.879Z : query : 6715083084 -> carrierDispatchPhone
+2024-04-18T17:36:49.041Z : query : 6715083084 -> finish_carrier
+2024-04-18T17:38:03.433Z : Bot started
+2024-04-18T17:38:50.171Z : query : 6715083084 -> role:carrier
+2024-04-18T17:38:52.312Z : query : 6715083084 -> address
+2024-04-18T17:38:55.066Z : query : 6715083084 -> mc
+2024-04-18T17:38:56.859Z : query : 6715083084 -> popularRoute
+2024-04-18T17:38:58.284Z : query : 6715083084 -> carrierDispatchName
+2024-04-18T17:39:07.378Z : query : 6715083084 -> name
+2024-04-18T17:39:08.944Z : query : 6715083084 -> fleetSize
+2024-04-18T17:39:10.157Z : query : 6715083084 -> popularRoute
+2024-04-18T17:39:13.683Z : query : 6715083084 -> carrierDispatchPhone
+2024-04-18T17:39:19.601Z : query : 6715083084 -> carrierDispatchName
+2024-04-18T17:39:23.532Z : query : 6715083084 -> carrierDispatchPhone
+2024-04-18T17:39:24.955Z : query : 6715083084 -> price
+2024-04-18T17:39:32.384Z : query : 6715083084 -> fleetSize
+2024-04-18T17:39:34.781Z : query : 6715083084 -> popularRoute
+2024-04-18T17:39:37.641Z : query : 6715083084 -> price
+2024-04-18T17:39:40.350Z : query : 6715083084 -> carrierDriver
+2024-04-18T17:39:46.405Z : query : 6715083084 -> finish_carrier
+2024-04-18T17:40:08.744Z : query : 6715083084 -> role:carrier
+2024-04-18T17:46:18.277Z : Bot started
+2024-04-18T17:52:04.981Z : Bot started
+2024-04-18T17:52:35.130Z : Bot started
+2024-04-18T17:52:49.588Z : query : 6715083084 -> role:carrier
+2024-04-18T17:53:14.232Z : Bot started
+2024-04-18T17:53:26.437Z : Bot started
+2024-04-18T17:53:27.146Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T17:53:36.909Z : query : 6715083084 -> finish_carrier
+2024-04-18T17:54:27.260Z : Bot started
+2024-04-18T17:54:36.527Z : query : 6715083084 -> finish_carrier
+2024-04-18T17:54:40.276Z : query : 6715083084 -> cancel
+2024-04-18T17:54:41.600Z : query : 6715083084 -> cancel
+2024-04-18T17:54:45.310Z : query : 6715083084 -> role:carrier
+2024-04-18T17:54:48.567Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T17:58:47.331Z : Bot started
+2024-04-18T18:01:06.723Z : Bot started
+2024-04-18T18:06:53.502Z : Bot started
+2024-04-18T18:06:56.072Z : query : 6715083084 -> role:carrier
+2024-04-18T18:06:58.247Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T18:08:02.644Z : Bot started
+2024-04-18T18:09:41.600Z : Bot started
+2024-04-18T18:11:47.403Z : Bot started
+2024-04-18T18:11:50.181Z : query : 6715083084 -> role:carrier
+2024-04-18T18:11:59.948Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T18:12:37.116Z : query : 6715083084 -> reset_carrier_info
+2024-04-18T18:12:46.695Z : query : 6715083084 -> cancel
+2024-04-18T18:12:49.480Z : query : 6715083084 -> address
+2024-04-18T18:15:01.629Z : Bot started
+2024-04-18T18:15:05.029Z : query : 6715083084 -> role:carrier
+2024-04-18T18:15:07.970Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T18:15:15.819Z : query : 6715083084 -> reset_carrier_info
+2024-04-18T18:16:07.486Z : Bot started
+2024-04-18T18:20:45.714Z : query : 6715083084 -> cancel
+2024-04-18T18:20:49.322Z : query : 6715083084 -> role:carrier
+2024-04-18T18:21:02.190Z : query : 6715083084 -> load_info
+2024-04-18T18:22:08.443Z : Bot started
+2024-04-18T18:22:25.167Z : Bot started
+2024-04-18T18:23:22.849Z : Bot started
+2024-04-18T18:24:19.841Z : Bot started
+2024-04-18T18:24:44.811Z : Bot started
+2024-04-18T18:25:27.959Z : Bot started
+2024-04-18T18:26:55.501Z : Bot started
+2024-04-18T18:27:13.850Z : Bot started
+2024-04-18T18:27:17.251Z : query : 6715083084 -> role:carrier
+2024-04-18T18:27:19.758Z : query : 6715083084 -> remove_carrier_info
+2024-04-18T18:28:15.135Z : Bot started
+2024-04-18T18:28:17.460Z : query : 6715083084 -> role:carrier
+2024-04-18T18:28:27.006Z : query : 6715083084 -> address
+2024-04-18T18:37:27.620Z : query : 6715083084 -> popularRoute
+2024-04-18T19:20:56.802Z : Bot started
+2024-04-18T19:31:40.728Z : Bot started
+2024-04-18T19:31:41.418Z : query : 6715083084 -> address
+2024-04-18T19:31:46.844Z : query : 6715083084 -> name
+2024-04-18T19:32:02.353Z : query : 6715083084 -> mc
+2024-04-18T19:32:08.423Z : query : 6715083084 -> fleetSize
+2024-04-18T19:32:11.354Z : query : 6715083084 -> price
+2024-04-18T19:32:13.906Z : query : 6715083084 -> carrierDispatchName
+2024-04-18T19:32:16.393Z : query : 6715083084 -> carrierDispatchPhone
+2024-04-18T19:32:19.416Z : query : 6715083084 -> carrierDriver
+2024-04-18T19:32:21.931Z : query : 6715083084 -> finish_carrier
+2024-04-18T19:32:28.707Z : query : 6715083084 -> role:carrier
+2024-04-18T19:32:32.293Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T19:32:32.374Z : 6715083084 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-18T19:32:32.383Z : Bot started
+2024-04-18T19:33:16.339Z : Bot started
+2024-04-18T19:33:17.048Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T19:33:17.557Z : 6715083084 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-18T19:33:17.563Z : Bot started
+2024-04-18T19:46:40.111Z : Bot started
+2024-04-18T19:46:41.791Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T19:46:41.930Z : 6715083084 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-18T19:46:41.934Z : Bot started
+2024-04-18T19:48:36.069Z : Bot started
+2024-04-18T19:48:36.783Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T19:48:36.791Z : query : 6715083084 -> edit_carrier_info
+2024-04-18T19:48:37.532Z : 6715083084 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-18T19:48:37.535Z : Bot started
+2024-04-18T19:48:37.785Z : 6715083084 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-18T19:48:37.788Z : Bot started
+2024-04-18T19:51:52.350Z : Bot started
+2024-04-18T19:52:17.355Z : Bot started
+2024-04-18T19:52:18.049Z : query : 6715083084 -> remove_carrier_info
+2024-04-18T19:52:23.763Z : query : 6715083084 -> role:carrier
+2024-04-18T19:52:23.849Z : 6715083084 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-18T19:52:23.855Z : Bot started
+2024-04-18T19:53:03.404Z : Bot started
+2024-04-18T19:53:04.090Z : query : 6715083084 -> role:carrier
+2024-04-18T19:53:04.662Z : 6715083084 : error -> TypeError: Cannot convert undefined or null to object
+2024-04-18T19:53:04.667Z : Bot started
+2024-04-18T19:55:05.724Z : Bot started
+2024-04-18T19:55:08.494Z : query : 6715083084 -> role:carrier
+2024-04-18T19:55:53.389Z : Bot started
+2024-04-18T19:56:28.174Z : Bot started
+2024-04-18T19:56:57.329Z : Bot started
+2024-04-18T19:58:19.834Z : Bot started
+2024-04-18T19:58:45.941Z : Bot started
+2024-04-18T19:59:06.086Z : Bot started
+2024-04-18T20:01:22.994Z : Bot started
+2024-04-18T20:01:37.085Z : query : 6715083084 -> reset_carrier_info
+2024-04-18T20:01:57.675Z : query : 6715083084 -> role:carrier
+2024-04-18T20:01:59.368Z : query : 6715083084 -> reset_carrier_info
+2024-04-18T20:03:09.441Z : Bot started
+2024-04-18T20:03:16.227Z : query : 6715083084 -> role:carrier
+2024-04-18T20:03:21.866Z : query : 6715083084 -> reset_carrier_info
+2024-04-18T20:04:43.516Z : Bot started
+2024-04-18T20:04:54.640Z : query : 6715083084 -> role:carrier
+2024-04-18T20:04:56.069Z : query : 6715083084 -> price
+2024-04-18T20:04:57.352Z : query : 6715083084 -> fleetSize
+2024-04-18T20:04:58.816Z : query : 6715083084 -> carrierDispatchPhone
+2024-04-18T20:05:00.506Z : query : 6715083084 -> name
+2024-04-18T20:05:06.065Z : query : 6715083084 -> reset_carrier_info
+2024-04-18T20:05:16.994Z : query : 6715083084 -> role:carrier
+2024-04-18T20:05:24.819Z : query : 6715083084 -> role:client
